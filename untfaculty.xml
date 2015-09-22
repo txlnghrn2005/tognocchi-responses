@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unt_tc_faculty>
+	<faculty>
+		<first_name>Ryan</first_name>
+		<last_name>Boettger</last_name>
+		<job_title>Associate Professor</job_title>
+		<office>Auditorium 314</office>
+		<phone>940.565.4458</phone>
+	</faculty>
+	<faculty>
+		<first_name>Neil</first_name>
+		<last_name>Cobb</last_name>
+		<job_title>Lecturer</job_title>
+		<office>Auditorium 105</office>
+		<phone>940.565.4458</phone>
+	</faculty>
+</unt_tc_faculty>
