@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unt_tc_graduate_course_catalog>
+	<course_requirements>
+		<title>Teaching Technical Writing Certificate</title>
+				<description>This graduate academic certificate caters to non-majors. Teaching technical writing requires an acute attention to the stylistic and rhetorical standards and practices that govern workplace writing—these practices often run counter to traditional humanities-based writing training. Understandably, these emphases are not part of the curricula in rhetoric/composition, literature, creative writing, and cultural studies programs.
+				<br/>
+				The certificate in teaching technical writing equips students with the skills needed to teach a variety of foundational courses in technical communication, including introduction to technical writing, technical editing, technical style, document and web design, and professional report and proposal writing.</description>
+			
+			<title>Admission Procedures</title>
+				<admin_process>The admission requirements for a graduate-level certificate differ from a MA degree. GRE scores, letters of reference, a personal statement, and a resume are not required to apply for this certificate program. Applicants, however, must follow these procedures: 
+			
+				<admin_requirements>
+					<require>U.S. citizens/permanent residents submit application, application fee, and official transcripts to the Toulouse Graduate School.</require>
+					<require>International applicants submit above materials to the International Admission Office. Acceptable TOEFL scores must be submitted. Applicants with an undergraduate degree from a U.S. college/university or having successfully completed an intensive English program may be exempted from the TOEFL.</require>
+					<require>The Toulouse Graduate School and the Department of Linguistics and Technical Communication Graduate Studies Director will notify students of their admission status.</require>
+					<require>Students who wish to enter the MA program in professional and technical communication will be required to take the GRE and meet College of Arts and Sciences entrance requirements before proceeding with courses beyond those needed for the certificate program.</require>
+				</admin_requirements>
+				</admin_process>
+			
+			<required_courses>
+				<title>Required courses, 12 hours</title>
+				<course_outline_requirements>Students interested in the graduate certificate in teaching technical writing must take four courses (12 hours) to earn the academic certificate.
+					<required_course_work>TECM 5190 - Style and Technical Writing</required_course_work>
+					<required_course_work>TECM 5195 - Editing Technical Documents</required_course_work>
+					<required_course_work>TECM 5550 - Studies in the Teaching of Technical Communication</required_course_work>
+					<required_course_work>TECM 5170 - Grants and Proposals</required_course_work>
+					or
+					<required_course_work>TECM 5191 - Digital Literacies for Professional Communicators</required_course_work>
+					or
+					<required_course_work>TECM 5280 - Designing Technical Documents</required_course_work>
+				</course_outline_requirements>
+			</required_courses>
+			
+				<title>Disclosures</title>
+					<disclosures_link>Gainful Employment Disclosures for Graduate Academic Certificates</disclosures_link>	
+	</course_requirements>
+</unt_tc_graduate_course_catalog>
