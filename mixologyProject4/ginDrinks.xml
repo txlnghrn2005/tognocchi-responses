@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/ginDrinks.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<ginDrinks>
+			<group category="gin">
+				<title>Abbey No.1</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>3/4 oz. Lillet blanc</ingredients>
+					<ingredients>3/4 oz. orange juice</ingredients>
+					<ingredients>Maraschino cherry or orange peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except cherry, with cracked ice.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with cherry or orange peel.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Back Bay Balm</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>3 oz. cranberry juice</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>Several dashes orange bitter</ingredients>
+					<ingredients>Club soda</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour all ingredients, except club soda, into a chilled highball glass with several ice cubes.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+					<mixing_directions>Fill with club soda.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Highball Glass</serving_glass>
+					<images>images/highball_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Cabaret No.1</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>1 1/2 oz. Dubonnet rouge</ingredients>
+					<ingredients>Several dashes Angostura bitters</ingredients>
+					<ingredients>Several dashes Pernod</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except maraschino cherry, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with cherry.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Damn the Weather</title>
+				<ingredients-list>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1/2 oz. sweet vermouth</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>1 tsp. curaçao</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Old Fashioned Glass</serving_glass>
+					<images>images/old_fashioned_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Elk</title>
+				<ingredients-list>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1 oz. prunelle</ingredients>
+					<ingredients>Several dashes of dry vermouth</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>				
+				</directions>
+				<glass>
+					<serving_glass>Old Fashioned Glass</serving_glass>
+					<images>images/old_fashioned_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Fernet Branca Cocktail</title>
+				<ingredients-list>
+					<ingredients>2 oz. gin</ingredients>
+					<ingredients>1/2 oz. Fernet Branca</ingredients>
+					<ingredients>1/2 oz. sweet vermouth</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Gale Force</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>3/4 oz. gold rum</ingredients>
+					<ingredients>3 oz. orange juice</ingredients>
+					<ingredients>1/4 oz. lemon juice</ingredients>
+					<ingredients>Several dashes of 151-proof Demerara rum or Jamaica rum</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Old Fashioned Glass</serving_glass>
+					<images>images/old_fashioned_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Habit Rouge</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>1 1/2 oz. grapefruit juice</ingredients>
+					<ingredients>1 1/2 oz. cranberry juice</ingredients>
+					<ingredients>1 tsp. maple syrup of honey</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled wine goblet.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Wine Goblet</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Istrain Smiling</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>1 oz. creme de cassis</ingredients>
+					<ingredients>1 tsp. Mandarine Napoleon</ingredients>
+					<ingredients>Tonic water</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Stir gin, cassis, and Mandarine liqueur with ice in a mixing glass.</mixing_directions>
+					<mixing_directions>Pour into a tall highball glass.</mixing_directions>
+					<mixing_directions>Add ice cubes.</mixing_directions>
+					<mixing_directions>Fill with cold tonic water.</mixing_directions>		
+				</directions>
+				<glass>
+					<serving_glass>Highball Glass</serving_glass>
+					<images>images/highball_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Jamaica Glow</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>1/2 oz. dry red wine</ingredients>
+					<ingredients>1/4 oz. dark Jamaica rum</ingredients>
+					<ingredients>1/2 oz. orange juice</ingredients>
+					<ingredients>Lime slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lime slice, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Decorate with lime slice.</mixing_directions>		
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>KCB</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>1/4 oz. kirsch</ingredients>
+					<ingredients>Several dashes apricot brandy</ingredients>
+					<ingredients>Several dashes lemon juice</ingredients>
+					<ingredients>Lemon peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lemon peel, with cracked ice in a shaker or blender</mixing_directions>
+					<mixing_directions>strain into a chilled cocktail glass..</mixing_directions>
+					<mixing_directions>Twist lemon peel over drink.</mixing_directions>
+					<mixing_directions>Drop peel into glass.</mixing_directions>				
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>La Cote Basque Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>1/2 oz. Forbidden Fruit</ingredients>
+					<ingredients>1/2 oz. triple sec</ingredients>
+					<ingredients>Several dashes orange bitter</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Maiden's Blush No.1</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>1 tsp. curacao</ingredients>
+					<ingredients>1/2 tsp. lemon juice</ingredients>
+					<ingredients>1/2 tsp. grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Whiskey glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Whiskey Glass</serving_glass>
+					<images>images/old_fashioned_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Negroni</title>
+				<ingredients-list>
+					<ingredients>2 oz. gin</ingredients>
+					<ingredients>1/2 oz. sweet vermouth</ingredients>
+					<ingredients>3/4 oz. Campari</ingredients>
+					<ingredients>Orange peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Blend all ingredients, except orange peel, with cracked ice in a mixing glass.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Twist orange peel over drink.</mixing_directions>
+					<mixing_directions>Drop peel into glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Opera</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>3/4 oz. Dubonnet rouge</ingredients>
+					<ingredients>1/2 oz. Maraschino liqueur</ingredients>
+					<ingredients>Orange peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except orange peel, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Twist orange peel over drink.</mixing_directions>
+					<mixing_directions>Drop peel into glass.</mixing_directions>				
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Pall Mall</title>
+				<ingredients-list>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1 oz. sweet vermouth</ingredients>
+					<ingredients>1 oz. dry vermouth</ingredients>
+					<ingredients>1 tsp. white creme de menthe</ingredients>
+					<ingredients>Several dashes orange bitter</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour all ingredients into a mixing glass with several ice cubes.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>				
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Radnor Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1 oz. apricot brandy</ingredients>
+					<ingredients>1 tsp. lemon juice</ingredients>
+					<ingredients>1/2 tsp. sugar syrup</ingredients>
+					<ingredients>1/2 tsp grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>				
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>San Remo Cocktail</title>
+				<ingredients-list>
+					<ingredients>2 oz. gin</ingredients>
+					<ingredients>1/2 oz. dry vermouth</ingredients>
+					<ingredients>1 oz. Strega</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Tangier</title>
+				<ingredients-list>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1 oz. triple sec</ingredients>
+					<ingredients>1 oz. Mandarine Napoleon</ingredients>
+					<ingredients>Orange peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except orange peel, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with orange peel.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Ulanda</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>3/4 oz. Cointreau</ingredients>
+					<ingredients>Several dashes Pernod</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Valencia Cocktail No.2</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>1 oz. dry sherry</ingredients>
+					<ingredients>Lemon peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour gin and sherry into a mixing glass with several ice cubes.</mixing_directions>
+					<mixing_directions>Stir well.</mixing_directions>
+					<mixing_directions>strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Twist lemon peel over drink.</mixing_directions>
+					<mixing_directions>drop peel into glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Warday's Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1 oz. sweet vermouth</ingredients>
+					<ingredients>1 oz. calvados or applejack</ingredients>
+					<ingredients>1 tsp. yellow Chartreuse</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>				
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="gin">
+				<title>Xanthia</title>
+				<ingredients-list>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1 oz. cherry brandy</ingredients>
+					<ingredients>1 oz. yellow Chartreuse</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+		</ginDrinks>
+	</drinks>
+</mixology>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/liqueursDrinks.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<liqueursDrinks>
+			<group category="liqueurs">
+				<title>Abbot's Delight</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Frangelico</ingredients>
+					<ingredients>3 oz. pineapple juice</ingredients>
+					<ingredients>1/2 small ripe banana, peeled and sliced</ingredients>
+					<ingredients>Several dashes Angostura bitters</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pour into a chilled parfait glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Parfait Glass</serving_glass>
+				<images>images/parfait_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Ballylickey Dickie</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. amaretto</ingredients>
+					<ingredients>1 oz. Irish cream</ingredients>
+					<ingredients>1 scoop vanilla ice cream</ingredients>
+					<ingredients>1 oz. slivered almonds</ingredients>
+					<ingredients>Pinch ground nutmeg</ingredients>
+					<ingredients>Pinch powdered cinnamon</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients , except spices and Maraschino cherry, in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pour into a chilled wine goblet.</mixing_directions>
+					<mixing_directions>Sprinkle with ground nutmeg and powdered cinnamon.</mixing_directions>
+					<mixing_directions>Grnish with cherry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Cadiz</title>
+				<ingredients-list>
+					<ingredients>3/4 oz blackberry liqueur</ingredients>
+					<ingredients>3/4 oz. amontillado sherry</ingredients>
+					<ingredients>1/2 oz. triple sec</ingredients>
+					<ingredients>1/2 oz cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Dale's Hershey</title>
+				<ingredients-list>
+					<ingredients>1 oz. Vander Mint</ingredients>
+					<ingredients>1 oz. peppermint schnapps</ingredients>
+					<ingredients>1/2 oz curaçao</ingredients>
+					<ingredients>Large scoop chocolate ice cream</ingredients>
+					<ingredients>1 tbsp. whipped cream</ingredients>
+					<ingredients>1 tsp. finely chopped Hershey chocolate kisses</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except whipped cream and chocolate kisses, in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Top with whipped cream.</mixing_directions>
+					<mixing_directions>Sprinkle with chopped Hershey chocolate kisses.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>East Side</title>
+				<ingredients-list>
+					<ingredients>1 oz. amaretto</ingredients>
+					<ingredients>1 oz. light rum</ingredients>
+					<ingredients>1/2 oz. Malibu</ingredients>
+					<ingredients>1 oz. cream</ingredients>
+					<ingredients>1 tsp. toasted, shredded coconut (optional)</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except coconut, with cracked ice in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pur into a chilled wine goblet.</mixing_directions>
+					<mixing_directions>Sprinkle with shredded coconut.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Ferrari</title>
+				<ingredients-list>
+					<ingredients>2 oz. vermouth</ingredients>
+					<ingredients>1 oz. amaretto</ingredients>
+					<ingredients>Lemon twist</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour vermouth and amaretto into a chilled double Old Fashioned glass with ice cubes.</mixing_directions>
+					<mixing_directions>Stir well.</mixing_directions>
+					<mixing_directions>Add lemon twist.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Galatoirés Glory</title>
+				<ingredients-list>
+					<ingredients>2 oz. Southern Comfort</ingredients>
+					<ingredients>1 oz. cognac</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>Several dashes grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Halley's Comfort</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Southern Comfort</ingredients>
+					<ingredients>1 1/2 oz. peach schnapps</ingredients>
+					<ingredients>Club soda</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour Southern Comfort and peach schnapps into a chilled Old Fashioned glass with several ice cubes.</mixing_directions>
+					<mixing_directions>Top with club soda.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Ice Boat</title>
+				<ingredients-list>
+					<ingredients>1 oz. peppermint schnapps</ingredients>
+					<ingredients>1 oz. vodka</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Combine all ingredients in a mixing glass with several ice cubes.</mixing_directions>
+					<mixing_directions>Stir well.</mixing_directions>
+					<mixing_directions>Strain into a chilled brandy snifter filled with crushed ice..</mixing_directions>
+				</directions><glass>
+				<serving_glass>Brandy Snifter</serving_glass>
+				<images>images/brandy_snifter_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Jacaranda</title>
+				<ingredients-list>
+					<ingredients>1 oz. Haritian rum</ingredients>
+					<ingredients>1/2 oz. peppermint schnapps</ingredients>
+					<ingredients>1 1/2 oz. mango nectar</ingredients>
+					<ingredients>1/2 oz. cream</ingredients>
+					<ingredients>1 tsp. peach schnapps</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except peach schnapps, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Top with peach schnapps.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Kahlua Hummer</title>
+				<ingredients-list>
+					<ingredients>1 oz. Kahlua</ingredients>
+					<ingredients>1 oz. light rum</ingredients>
+					<ingredients>1/2 cup vanilla ice cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled parfait glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Parfait Glass</serving_glass>
+				<images>images/parfait_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>La Boma</title>
+				<ingredients-list>
+					<ingredients>1 oz. light rum</ingredients>
+					<ingredients>1/2 oz. curaçao</ingredients>
+					<ingredients>1/2 oz. anisette</ingredients>
+					<ingredients>1/2 oz. apricot brandy</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>Pineapple stick or slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>AMix all ingredients, except pineapple stick or slice, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with pineapple.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Macaroni</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Pernod</ingredients>
+					<ingredients>1/2 oz. sweet vermouth</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Nightingale</title>
+				<ingredients-list>
+					<ingredients>1 oz. créme de banane</ingredients>
+					<ingredients>1/2 oz. curaçao</ingredients>
+					<ingredients>1 oz. cream</ingredients>
+					<ingredients>1 egg white (for two drinks)</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except Maraschino cherry, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with cherry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Old Glory</title>
+				<ingredients-list>
+					<ingredients>1/2 oz. grenadine</ingredients>
+					<ingredients>1/2 oz. heavy cream</ingredients>
+					<ingredients>1/2 oz. créme yvette</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Carefully pour each ingredient in the order listed into a large pony glass so that each liqueur floats on the one preceding it.</mixing_directions>
+					<mixing_directions>Pour liquid slowly over the back of a bar spoon that is held inside the glass near the previous ingredient.</mixing_directions>
+					<mixing_directions>Do not mix the layers.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Pony Glass</serving_glass>
+				<images>images/pony_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Pacific Pacifier</title>
+				<ingredients-list>
+					<ingredients>1 oz. Cointreau</ingredients>
+					<ingredients>1/2 oz. créme de banane</ingredients>
+					<ingredients>1/2 oz. light cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled Old Fashioned glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Queen Elizabeth Wine</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Benedictine</ingredients>
+					<ingredients>3/4 oz. dry vermouth</ingredients>
+					<ingredients>3/4 oz. lemon or lime juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Rainbow Room</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Cointreau</ingredients>
+					<ingredients>1 oz. brandy</ingredients>
+					<ingredients>1/2 oz. peach schnapps</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>St. Moritz Pousse-café</title>
+				<ingredients-list>
+					<ingredients>Raspberry syrup</ingredients>
+					<ingredients>Anisette</ingredients>
+					<ingredients>Parfait Amour</ingredients>
+					<ingredients>Yellow Chartreuse</ingredients>
+					<ingredients>Green Chartreuse</ingredients>
+					<ingredients>Curaçao</ingredients>
+					<ingredients>Cognac</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Layer ingredients in the order given, one on top of the other in a Pousse-Café glass.</mixing_directions>
+					<mixing_directions>Pour liquid slowly over the back of a bar spoon that is held inside the glass near the previous ingredient.</mixing_directions>
+					<mixing_directions>Do not mix the layers.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Pousse-Café Glass</serving_glass>
+				<images>images/pousse_cafe_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Tappan Zee Tot</title>
+				<ingredients-list>
+					<ingredients>2 oz. blackberry brandy</ingredients>
+					<ingredients>1 oz. blackberry liqueur</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Velvet Hammer</title>
+				<ingredients-list>
+					<ingredients>1 oz. Cointreau</ingredients>
+					<ingredients>1 oz. white créme de cacao</ingredients>
+					<ingredients>1 oz. heavy cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Wally Harvbanger No.1</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Galliano</ingredients>
+					<ingredients>1 1/2 oz. dark Jamaica rum</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>1 oz. pineapple juice</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>Pineapple stick</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except pineapple stick, with cracked ice in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pour nto a chilled Squall glass.</mixing_directions>
+					<mixing_directions>Garnish with pineapple stick.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Squall Glass</serving_glass>
+				<images>images/squall_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Yodel</title>
+				<ingredients-list>
+					<ingredients>2 oz. Fernet Branca</ingredients>
+					<ingredients>3 oz. orange juice</ingredients>
+					<ingredients>Club soda</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour Fernet Branca and orange juice into a chilled double Old Fashioned glass with several ice cubes,.</mixing_directions>
+					<mixing_directions>Fill with club soda.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="liqueurs">
+				<title>Zihuatenejo</title>
+				<ingredients-list>
+					<ingredients>1 oz. Galliano</ingredients>
+					<ingredients>1 oz. light rum</ingredients>
+					<ingredients>4 oz. orange juice</ingredients>
+					<ingredients>Scoop vanilla ice cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pour into a chilled Squall glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Squall Glass</serving_glass>
+				<images>images/squall_glass.jpg</images></glass>
+			</group>
+		</liqueursDrinks>
+	</drinks>
+</mixology>

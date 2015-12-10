@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/houseDrinks.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<houseDrinks>
+			<group category="house">
+				<title>Al Capone</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. brandy</ingredients>
+					<ingredients>3/4 oz. Marsala</ingredients>
+					<ingredients>Dash Drambuie</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a balloon glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Balloon Glass</serving_glass>
+				<images>images/balloon_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Baltschug Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>1 oz. lemon juice</ingredients>
+					<ingredients>1/2 oz. raspberry syrup or grenadine</ingredients>
+					<ingredients>1 1/2 oz. peach juice</ingredients>
+					<ingredients>1 1/3 oz. orange juice</ingredients>
+					<ingredients>Assorted garnishes: orange slice, lemon slice, and Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except garnishes, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cooler glass with ic.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cooler Glass</serving_glass>
+				<images>images/cooler_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Camel Punch</title>
+				<ingredients-list>
+					<ingredients>1 oz. dark rum</ingredients>
+					<ingredients>3/4 oz. vodka</ingredients>
+					<ingredients>1/2 oz. cherry brandy</ingredients>
+					<ingredients>1/2 oz. apricot brandy</ingredients>
+					<ingredients>3 oz. pineapple juice</ingredients>
+					<ingredients>1 tbsp. diced assorted fruits</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except fruits, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled Pilsener glass.</mixing_directions>
+					<mixing_directions>Garnish with diced fruit.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Pilsener Glass</serving_glass>
+				<images>images/pilsner_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Derby Daiquiri</title>
+				<ingredients-list>
+					<ingredients>3 oz. light rum</ingredients>
+					<ingredients>2 oz. orange juice</ingredients>
+					<ingredients>1 oz. lime juice</ingredients>
+					<ingredients>1 oz. sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled wine glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>East Winds Delite</title>
+				<ingredients-list>
+					<ingredients>2 oz. gold rum</ingredients>
+					<ingredients>1/2 oz. Galliano</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>Sugar syrup</ingredients>
+					<ingredients>Dash grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Collins glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Five-legged Mule</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gin</ingredients>
+					<ingredients>1 oz. Dubonnet rouge</ingredients>
+					<ingredients>1 oz. dry vermouth</ingredients>
+					<ingredients>Dash lemon juice</ingredients>
+					<ingredients>Dash grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Golden Tulip</title>
+				<ingredients-list>
+					<ingredients>1 oz. vodka</ingredients>
+					<ingredients>1/2 oz. apricot brandy</ingredients>
+					<ingredients>1/2 oz. curaçao </ingredients>
+					<ingredients>1/2 oz. orange juice</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>Orange slice</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except orange slice and cherry, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with orange slice and cherry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Handlebar</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. scotch</ingredients>
+					<ingredients>3/4 oz. Drambuie</ingredients>
+					<ingredients>1/2 oz. Rose's lime juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix with cracked ice in a shaker or blenders.</mixing_directions>
+					<mixing_directions>strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Ice Cream Colada</title>
+				<ingredients-list>
+					<ingredients>1 1/2 light rum</ingredients>
+					<ingredients>1/2 oz. banana, melon, or strawberry liqueur</ingredients>
+					<ingredients>2 scoops vanilla ice cream</ingredients>
+					<ingredients>3 oz. coconut cream</ingredients>
+					<ingredients>1 oz. heavy cream</ingredients>
+					<ingredients>4 oz. crushed pineapple</ingredients>
+					<ingredients>1 tsp. shredded coconut</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except shredded coconut, in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pour into a chilled wine goblet.</mixing_directions>
+					<mixing_directions>Sprinkle with nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Jerry's Christmas Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Irish whiskey</ingredients>
+					<ingredients>1 oz. Irish Mist</ingredients>
+					<ingredients>1 oz. lemon juice</ingredients>
+					<ingredients>1 egg white (for two drinks)</ingredients>
+					<ingredients>Ground nutmeg</ingredients>
+					<ingredients>Orange slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except orange and nutmeg, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Delmonico glass.</mixing_directions>
+					<mixing_directions>Sprinkle with nutmeg.</mixing_directions>
+					<mixing_directions>Garnish with orange slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Delmonico Glass</serving_glass>
+				<images>images/delmonico_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Kenya Siku Kuu</title>
+				<ingredients-list>
+					<ingredients>1 oz. Kenya white rum</ingredients>
+					<ingredients>1 oz. Cointreau</ingredients>
+					<ingredients>2 oz. passion fruit juice</ingredients>
+					<ingredients>Orange slice</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+					<ingredients>Mint sprig</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix rum, Cointreau, and passion fruit juice with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Serve in a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with orange, cherry, and mint.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Lady Di</title>
+				<ingredients-list>
+					<ingredients>1 oz. Benedictine</ingredients>
+					<ingredients>1/2 oz. tequila</ingredients>
+					<ingredients>1 oz. cream</ingredients>
+					<ingredients>1/2 tsp. orgeat syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix with cracked ice in a blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Mandarin Punch</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. dark Jamaica rum</ingredients>
+					<ingredients>1/2 oz. mandarine liqueur</ingredients>
+					<ingredients>2 oz. orange juice</ingredients>
+					<ingredients>2 oz. pineapple juice</ingredients>
+					<ingredients>Orange slice</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except orange slice and cherry, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour nto a chilled highball glass.</mixing_directions>
+					<mixing_directions>Garnish with orange slice and cherry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>New Cosmo</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Absolut Vodka infused with cranberries, oranges and lemons</ingredients>
+					<ingredients>1/2 oz. Cointreau</ingredients>
+					<ingredients>1/2 oz. cranberry juice</ingredients>
+					<ingredients>1/2 oz. orange juice</ingredients>
+					<ingredients>Dash lime juice</ingredients>
+					<ingredients>Lime wedge</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lime wedge, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with lime wedge.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Palm Cour Special</title>
+				<ingredients-list>
+					<ingredients>2 1/2 oz. Stolichnaya vodka</ingredients>
+					<ingredients>1 tbsp. Rose's lime juice</ingredients>
+					<ingredients>1 tbsp. fresh lime juice</ingredients>
+					<ingredients>Several dashes Cointreau</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients well in a mixing glass with cracked.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Racquel Welch</title>
+				<ingredients-list>
+					<ingredients>3/4 oz. Tuaca</ingredients>
+					<ingredients>3/4 oz. amaretto</ingredients>
+					<ingredients>3/4 oz. white créme de cacao</ingredients>
+					<ingredients>Several dashes sweet cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender..</mixing_directions>
+					<mixing_directions>Pour into a chilled wine glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Savoy Restoration</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>1 oz. Campari</ingredients>
+					<ingredients>1 oz. crushed strawberries</ingredients>
+					<ingredients>Champagne</ingredients>
+					<ingredients>Whole strawberry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix vodka, Campari, and crushed strawberries with crushed strawberries with cracked ice in a shaker.</mixing_directions>
+					<mixing_directions>Serve in a chilled champagne glass, the rim of which has been dipped in sugar.</mixing_directions>
+					<mixing_directions>Fill with cold champagne.</mixing_directions>
+					<mixing_directions>garnish with a large strawberry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Champagne Glass</serving_glass>
+				<images>images/champagne_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Tahoe Julius</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>3 oz. orange juice</ingredients>
+					<ingredients>1 oz. half-and half</ingredients>
+					<ingredients>1 egg</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix with cracked ice in a blender until smooth.</mixing_directions>
+					<mixing_directions>Strain into a chilled Squall glass or wine glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Squall Glass</serving_glass>
+				<images>images/squall_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Victor's Special</title>
+				<ingredients-list>
+					<ingredients>1 oz. bourbon</ingredients>
+					<ingredients>1 oz. Grande Marnier</ingredients>
+					<ingredients>1 oz. lime juice</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+					<ingredients>Dash grenadine</ingredients>
+					<ingredients>Pineapple stick or slice</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lemon wedge, pineapple, and cherry, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Serve into a chilled wine goblet.</mixing_directions>
+					<mixing_directions>Garnish withlemon wedge, pineapple and Maraschino cherry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Wailea Tropical Itch</title>
+				<ingredients-list>
+					<ingredients>1 oz. blended whiskey</ingredients>
+					<ingredients>1 oz. dark Jamaica rum</ingredients>
+					<ingredients>1/2 oz. curaçao or triple sec</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>Dash Angostura bitters or orange bitters</ingredients>
+					<ingredients>Pineapple stick</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except pineapple and cherry, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Hurricane glass.</mixing_directions>
+					<mixing_directions>Garnish with pineapple stick and Maraschino cherry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Hurricane Glass</serving_glass>
+				<images>images/hurricane_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Yellowfingers</title>
+				<ingredients-list>
+					<ingredients>1 oz. blackberry brandy</ingredients>
+					<ingredients>1 oz. créme de banane</ingredients>
+					<ingredients>1/2 oz. gin</ingredients>
+					<ingredients>1/2 oz. heavy cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled Old Fashioned glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="house">
+				<title>Zapata</title>
+				<ingredients-list>
+					<ingredients>1 oz. tequila</ingredients>
+					<ingredients>1/2 oz. Campari</ingredients>
+					<ingredients>Juice of 1 orange</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled champagne goblet.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Champagne Goblet</serving_glass>
+				<images>images/champagne_glass.jpg</images></glass>
+			</group>
+		</houseDrinks>
+	</drinks>
+</mixology>

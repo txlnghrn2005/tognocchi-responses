@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/brandy.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<brandyDrinks>
+			<group category="brandy">
+				<title>A.J.</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. calvados or applejack</ingredients>
+					<ingredients>1 1/2 oz. grapefruit juice</ingredients>
+					<ingredients>Several dashes grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+		 	</group>
+		 	<group category="brandy">
+				<title>B and B</title>
+				<ingredients-list>
+					<ingredients>1 oz. cognac</ingredients>
+					<ingredients>1 oz. Benedictine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour into a brandy snifter.</mixing_directions>
+					<mixing_directions>Swirl until well blended.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Brandy Snifter</serving_glass>
+					<images>images/brandy_snifter_glass.jpg</images>
+				</glass>
+		 	</group>
+		 	<group category="brandy">
+				<title>California Cola</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. brandy</ingredients>
+					<ingredients>1/2 oz. triple sec</ingredients>
+					<ingredients>Cola</ingredients>
+					<ingredients>Lemon slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour brandy and triple sec over ice in a chilled Collins glass.</mixing_directions>
+					<mixing_directions>Fill with cold cola.</mixing_directions>
+					<mixing_directions>Garnish with lemon slice.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Collins Glass</serving_glass>
+					<images>images/collins_glass.jpg</images>
+				</glass>
+		 	</group>
+		 	<group category="brandy">
+				<title>Danish Kiss</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. applejack</ingredients>
+					<ingredients>1 oz. Cherry Heering</ingredients>
+					<ingredients>1 oz. cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+		 	</group>
+		 	<group category="brandy">
+				<title>East India</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. brandy</ingredients>
+					<ingredients>1/2 oz curaçao</ingredients>
+					<ingredients>1/2 oz. pineapple juice</ingredients>
+					<ingredients>Dashes Angostura bitters</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+		 	</group>
+		 	<group category="brandy">
+				<title>Fantasio</title>
+				<ingredients-list>
+					<ingredients>1 oz. brandy</ingredients>
+					<ingredients>3/4 oz. dry vermouth</ingredients>
+					<ingredients>1 tsp. white créme de cacao</ingredients>
+					<ingredients>1 tsp. Maraschino liqueur</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+		 	</group>
+		 	<group category="brandy">
+				<title>Gazette</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. brandy</ingredients>
+					<ingredients>1 oz. sweet vermouth</ingredients>
+					<ingredients>1 tsp. lemon juice</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+		 	</group>
+		 	<group category="brandy">
+				<title>Half Moon Street</title>
+				<ingredients-list>
+					<ingredients>2 oz. brandy</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>1 oz. pineapple juice</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+					<ingredients>Several dashes lime juice</ingredients>
+					<ingredients>Club soda</ingredients>
+					<ingredients>Several dashes 151-proof Demerara rum</ingredients>
+					<ingredients>Orange slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except club soda, rum, and orange slice, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Collins glass.</mixing_directions>
+					<mixing_directions>Add several ice cubes.</mixing_directions>
+					<mixing_directions>Fill with soda.</mixing_directions>
+					<mixing_directions>Float the rum.</mixing_directions>
+					<mixing_directions>Garnish with orange slice.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Collins Glass</serving_glass>
+					<images>images/collins_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Ichbien</title>
+				<ingredients-list>
+					<ingredients>2 oz. calvados</ingredients>
+					<ingredients>1/2 oz curaçao</ingredients>
+					<ingredients>2 oz. milk or cream</ingredients>
+					<ingredients>1 egg yolk</ingredients>
+					<ingredients>Ground nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except nutmeg, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled Delmonico glass.</mixing_directions>
+					<mixing_directions>Sprinkle with nutmeg.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Delmonico Glass</serving_glass>
+					<images>images/delmonico_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Jack-In-The-Box</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. applejack</ingredients>
+					<ingredients>1 oz. lemon juice</ingredients>
+					<ingredients>1 oz. pineapple juice</ingredients>
+					<ingredients>Several dashes Angostura bitters</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Kahlua Toreador</title>
+				<ingredients-list>
+					<ingredients>2 oz. brandy</ingredients>
+					<ingredients>1 oz. Kahlua</ingredients>
+					<ingredients>1 egg white (for two drinks)</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>La Grande Cascade</title>
+				<ingredients-list>
+					<ingredients>1 oz. brandy</ingredients>
+					<ingredients>1/2 oz. Parfait Amour</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>1/2 oz. orange juice</ingredients>
+					<ingredients>Several dashes Cointreau</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Malibu Mocha</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. brandy</ingredients>
+					<ingredients>1/2 oz. créme de cacao</ingredients>
+					<ingredients>Cola</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour brandy and créme de cacao over ice in a chilled Collins glass</mixing_directions>
+					<mixing_directions>Fill with cold cola.</mixing_directions>
+					<mixing_directions>Garnish with cherry.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Collins Glass</serving_glass>
+					<images>images/collins_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Newton's Gravity Apple</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. apple brandy</ingredients>
+					<ingredients>1/2 oz. curaçao or triple sec</ingredients>
+					<ingredients>Several dashes Angostura bitters</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Oak Room Special</title>
+				<ingredients-list>
+					<ingredients>1 oz. cherry brandy</ingredients>
+					<ingredients>1 oz. brandy</ingredients>
+					<ingredients>1 oz. créme de cacao</ingredients>
+					<ingredients>1 egg white (for two drinks)</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Pancho Villa No.1</title>
+				<ingredients-list>
+					<ingredients>1 oz. brandy</ingredients>
+					<ingredients>1 oz. white or gold tequila</ingredients>
+					<ingredients>1 oz. light rum</ingredients>
+					<ingredients>1 tsp. cherry brandy</ingredients>
+					<ingredients>4 oz. pineapple juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled wine goblet.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Wine Goblet</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Quaker</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. brandy</ingredients>
+					<ingredients>1 oz. light rum</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>1/2 oz. raspberry syrup</ingredients>
+					<ingredients>Lemon peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lemon peel, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Twist lemon peel over drink</mixing_directions>
+					<mixing_directions>Drop peel into glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Radnor Hunt</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. mirabelle</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Saddle River Secret</title>
+				<ingredients-list>
+					<ingredients>2 oz. applejack</ingredients>
+					<ingredients>1/2 oz. triple sec</ingredients>
+					<ingredients>1 oz. apple juice</ingredients>
+					<ingredients>1 oz. cranberry juice</ingredients>
+					<ingredients>1/2 oz. lime or lemon juice</ingredients>
+					<ingredients>1/2 tsp. maple syrup or sugar syrup</ingredients>
+					<ingredients>Apple or lemon slice</ingredients>
+					<ingredients>1/2 tsp. 151-proof Demerara rum</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except fruit slice and rum, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into chilled Squall glass.</mixing_directions>
+					<mixing_directions>Garnish with fruit slice.</mixing_directions>
+					<mixing_directions>Top with a float of rum.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Squall Glass</serving_glass>
+					<images>images/squall_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Tantalus</title>
+				<ingredients-list>
+					<ingredients>1 oz. brandy</ingredients>
+					<ingredients>1 oz. lemon juice</ingredients>
+					<ingredients>1 oz. Forbidden Fruit</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Valencia</title>
+				<ingredients-list>
+					<ingredients>2 oz. apricot brandy</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>Several dashes orange bitters</ingredients>
+					<ingredients>Champagne (optional)</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>NOTE: Use large tulip glass or a wine goblet with champagne..</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Washington</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. brandy</ingredients>
+					<ingredients>1 oz. dry vermouth</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+					<ingredients>Several dashes Angostura bitters</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Yellow Parrot</title>
+				<ingredients-list>
+					<ingredients>1 oz. brandy</ingredients>
+					<ingredients>1 oz. Pernod</ingredients>
+					<ingredients>1 oz. yellow Chartreuse</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="brandy">
+				<title>Zack is Back with the Zwack</title>
+				<ingredients-list>
+					<ingredients>2 oz. Zwack's Barack Palinka apricot brandy</ingredients>
+					<ingredients>Dash dry verouth</ingredients>
+					<ingredients>2 pepperoncini pepper</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Blend brandy and vermouth in a small pitcher or mixing glass with plenty of ice.</mixing_directions>
+					<mixing_directions>Stir briskly.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with pepperoncini pepper.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Cocktail Glass</serving_glass>
+					<images>images/cocktail_glass.jpg</images>
+				</glass>
+			</group>
+		</brandyDrinks>
+	</drinks>
+</mixology>

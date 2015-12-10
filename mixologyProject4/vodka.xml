@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/vodka.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<vodka>
+			<group category="vodka">
+				<title>Alexander Nevsky Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 oz. vodka</ingredients>
+					<ingredients>1 oz. apricot liqueur</ingredients>
+					<ingredients>1/2 oz lemon juice</ingredients>
+					<ingredients>4 oz. orange juice</ingredients>
+					<ingredients>Orange slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except orange slice, in a shaker or blender with cracked ice.</mixing_directions>
+					<mixing_directions>Pour into a chilled wine goblet. </mixing_directions>
+					<mixing_directions>Garnish with orange slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet </serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Banana Balm</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>1/2 oz. banana liqueur</ingredients>
+					<ingredients>1 tsp. lime juice</ingredients>
+					<ingredients>Club soda</ingredients>
+					<ingredients>Mint sprigs</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix vodka and banana liqueur with cracked ice in a blender until smooth.</mixing_directions>
+					<mixing_directions>Strain into a chilled wine glass.</mixing_directions>
+					<mixing_directions>Garnish with lime slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Camp Fire Club Cooler</title>
+				<ingredients-list>
+					<ingredients>4 oz. vodka</ingredients>
+					<ingredients>2 oz. Piña Colada mix</ingredients>
+					<ingredients>4 oz. orange juice</ingredients>
+					<ingredients>4 oz. grapefruit juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into chilled Collins glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Drake Cooler</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>1 oz. sloe gin</ingredients>
+					<ingredients>4 oz. pineapple juice</ingredients>
+					<ingredients>4 oz. grapefruit juice</ingredients>
+					<ingredients>Dash Falernum or simple syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a tall chilled Collins glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Egghead</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>4 oz. orange juice</ingredients>
+					<ingredients>1 egg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Florida Joy</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Absolute Citron Vodka</ingredients>
+					<ingredients>4 oz. grapefruit juice</ingredients>
+					<ingredients>1/2 tsp oz. triple sec</ingredients>
+					<ingredients>Lemon juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lemon slice, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled highball glass.</mixing_directions>
+					<mixing_directions>Garnish with lemon slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Gazpacho Macho</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>2 oz. gazpacho soup</ingredients>
+					<ingredients>2 oz. beef bouillon</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>Dash Tabasco sauce</ingredients>
+					<ingredients>Dash Worcestershire sauce</ingredients>
+					<ingredients>Pinch freshly ground white pepper</ingredients>
+					<ingredients>Pinch celery salt</ingredients>
+					<ingredients>1 tsp. dry sherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except sherry, with cracked ice in a mixing glass.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Float sherry on top.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Hanley Special</title>
+				<ingredients-list>
+					<ingredients>2 oz. vodka</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>2/3 cup tangerine juice</ingredients>
+					<ingredients>Falernum or sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled double Old Fashioned glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Ice Pick</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>Iced tea</ingredients>
+					<ingredients>Lemon wedge</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Fill a highball glass with several ice cubes and vodka and fill with iced tea.</mixing_directions>
+					<mixing_directions>Squeeze lemon over drink.</mixing_directions>
+					<mixing_directions>Drop into glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Jaegermeister</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>1/2 oz. kümmel</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>Lime peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lime peel, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a shilled cocktail glass. Twist lime peel over drink and drop in.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Kempinsky Fizz</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>1/2 oz. créme de cassis</ingredients>
+					<ingredients>1 tsp. lemon juice</ingredients>
+					<ingredients>Ginger ale, bitter lemon soda, or club soda</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour all ingredients, except soda, into chilled highball glass with ice.</mixing_directions>
+					<mixing_directions>Fill with soda and stir.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Le Doyen</title>
+				<ingredients-list>
+					<ingredients>1 oz. vodka</ingredients>
+					<ingredients>1 oz. créme de banane</ingredients>
+					<ingredients>1 oz. cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Madame De Montespan</title>
+				<ingredients-list>
+					<ingredients>1 oz. vodka</ingredients>
+					<ingredients>1/2 oz. white créme de cacao</ingredients>
+					<ingredients>1/2 oz. curaçao</ingredients>
+					<ingredients>1 oz. heavy cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Nevsky Prospect</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>1/2 oz. light rum</ingredients>
+					<ingredients>1/2 oz. curaçao</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Omsk Peach</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>1/2 oz. peach brandy</ingredients>
+					<ingredients>1/2 oz. orgeat syrup</ingredients>
+					<ingredients>1 tsp. lemon juice</ingredients>
+					<ingredients>1 ripe peach peeled and diced</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a blender until smooth.</mixing_directions>
+					<mixing_directions>Serve in a chilled wine glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Passion Cup No.2</title>
+				<ingredients-list>
+					<ingredients>1 oz. vodka</ingredients>
+					<ingredients>1 oz. Jamaica rum</ingredients>
+					<ingredients>1/2 oz. La Grande Passion</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>Lemon peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lemon peel, with cracked ice in a shaker or blender.</mixing_directions> 
+					<mixing_directions>Pour into a chilled Old Fashioned glass. </mixing_directions>
+					<mixing_directions>Twist lemon peel over drink.</mixing_directions>
+					<mixing_directions>Drop peel into drink.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Quaker City Cooler</title>
+				<ingredients-list>
+					<ingredients>1 oz. vodka</ingredients>
+					<ingredients>3 oz. chablis</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>Several dashes vanilla extract</ingredients>
+					<ingredients>1 tsp. grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except grenadine, in a shaker or blender with cracked ice.</mixing_directions>
+					<mixing_directions>Pour into a chilled wine goblet. </mixing_directions>
+					<mixing_directions>Top with grenadine.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Racing Driver</title>
+				<ingredients-list>
+					<ingredients>2 oz. vodka</ingredients>
+					<ingredients>1 oz. sloe gin</ingredients>
+					<ingredients>3 tbsp. frozen orange juice concentrate</ingredients>
+					<ingredients>3 Maraschino cherries</ingredients>
+					<ingredients>Dash kirsch</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Combine vodka, sloe gin, orange juice, and cherries in a blender with cracked ice.</mixing_directions>
+					<mixing_directions>Add ice, continuing to blend until mixture is very thick and smooth. </mixing_directions>
+					<mixing_directions>Pour into sherbert glasses.</mixing_directions>
+					<mixing_directions>Top with kirsch.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Sherbert Glass</serving_glass>
+				 <images>images/sherbert_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Salty Dog</title>
+				<ingredients-list>
+					<ingredients>Pinch salt</ingredients>
+					<ingredients>Pinch granulated sugar</ingredients>
+					<ingredients>Lime wedge</ingredients>
+					<ingredients>2 oz. vodka</ingredients>
+					<ingredients>Grapefruit juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix salt and sugar and spread onto on a sheet of aluminum foil or wax paper.</mixing_directions>
+					<mixing_directions>Wipe the rim of an Old Fashioned glass with lime wedge.</mixing_directions>
+					<mixing_directions>Roll glass in salt-sugar mixture until rim is evenly coated.</mixing_directions>
+					<mixing_directions>Fill chilled glass with several ice cubes, vodka, and grapefruit juice.</mixing_directions>
+					<mixing_directions>Stir.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Tamara Lvova</title>
+				<ingredients-list>
+					<ingredients>1 oz. Stolichnaya Strawberry Vodka</ingredients>
+					<ingredients>1 oz. Rhum Barbancourt</ingredients>
+					<ingredients>1 oz. créme de cacao</ingredients>
+					<ingredients>Scoop vanilla ice cream</ingredients>
+					<ingredients>Whipped cream</ingredients>
+					<ingredients>1 large strawberry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except whipped cream and strawberry, in a blender for about 10 seconds until creamy. Do not over mix. </mixing_directions>
+					<mixing_directions>Serve in chilled stemmed glass.</mixing_directions> 
+					<mixing_directions>Top with whipped cream.</mixing_directions>
+					<mixing_directions>Garnish with strawberry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Stemmed Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Vanya's Strawberry Fizz</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Stolichnaya Strawberry Vodka</ingredients>
+					<ingredients>1 oz. cranberry juice</ingredients>
+					<ingredients>6 large strawberries</ingredients>
+					<ingredients>Lemon-lime soda</ingredients>
+					<ingredients>1 large strawberry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except soda and one large strawberry for garnish, in a shaker or blender with cracked ice.</mixing_directions>
+					<mixing_directions>When mixture is smooth, pour into a chilled Collins glass.</mixing_directions>
+					<mixing_directions>Fill with cold lemon-lime soda.</mixing_directions> 
+					<mixing_directions>Add ice cubes.</mixing_directions>
+					<mixing_directions>Garnish with large strawberries.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Waikiki Comber</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. vodka</ingredients>
+					<ingredients>6 oz. guava juice</ingredients>
+					<ingredients>1/2 oz. fresh lime juice</ingredients>
+					<ingredients>1/2 oz. black raspberry liqueur</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except raspberry liqueur, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Collins glass.</mixing_directions>
+					<mixing_directions>Over the back of a spoon, pour in raspberry liqueur.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="vodka">
+				<title>Yorsh</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz vodka</ingredients>
+					<ingredients>12 oz. mug of beer</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Quaff the vodka neat and follow it with a mug of beer,</mixing_directions> 
+					<mixing_directions>or Pour the vodka into the beer and drink them together.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Beer Mug Glass</serving_glass>
+				<images>images/beer_mug_glass.jpg</images></glass>
+			</group>
+		</vodka>
+	</drinks>
+</mixology>

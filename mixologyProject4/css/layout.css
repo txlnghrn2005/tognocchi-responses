@@ -1,0 +1,249 @@
+/* Setting up our grid */
+h1, h2, h3, h4, h5, p, li{
+	font-family: "Lucida Grande","Lucida Sans Unicode","Segoe UI",Helvetica,Arial,sans-serif;
+	}
+
+h1 {
+	text-align:center; 
+	font-size:48pt; 
+	color: lightblue;
+	background-color: black;
+	padding: 20px;
+}
+h2 {
+	text-align:center; 
+	font-size:36pt; 
+	color: lightblue;
+	background-color: black;
+	padding: 20px;
+}
+
+body {
+	background-color: lightblue;
+}
+.container {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto; /* Margin-left and right are set to auto to center the container */
+}
+.five:first-child, .four:first-child, .three:first-child, .two:first-child, .one:first-child, .six:first-child { margin-left: 0; }
+
+.six {
+	width: 100%;
+	display: block;
+}
+.five {
+	width: 80%;
+	display: block;
+	float:left;
+	margin-left: 2%;
+}
+.four {
+	width: 66%;
+	display: block;
+	float:left;
+	margin-left: 2%;
+
+}
+.three {
+	width: 49%;
+	display: block;
+	float:left;
+	margin-left: 2%;
+
+}
+.two {
+	width: 32%;
+	display: block;
+	float:left;
+	margin-left: 2%;
+
+	}
+.one {
+	width: 15%;
+	display: block;
+	float:left;
+	margin-left: 2%;
+
+}
+.row {
+	width: 100%;
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+.top-section {
+	background-color: lightblue;
+	height: 310px;
+}
+
+header {
+	float: left;
+}
+
+#nav a {
+	font-family: "Lucida Grande","Lucida Sans Unicode","Segoe UI",Helvetica,Arial,sans-serif;
+	text-transform: capitalize;
+    display:inline;
+    padding-left:10px;
+    margin-top:0;
+    padding-top:5px;
+    font-size:11px;
+    font-weight: bold;
+    line-height: 24px;;
+}
+
+
+.left-column {
+	background-color: lightblue;
+	width: 100%;
+	height: 500px;
+}
+
+.middle-column {
+	background-color: lightblue;
+	width: 100%;
+	height: 500px;
+}
+
+.right-column {
+	background-color: lightblue;
+	width: 100%;
+	height: 500px;
+}
+
+footer {
+	background-color: lightblue;
+	height: 50px;
+	clear: both;
+}
+
+#showDrink {
+    display: inline-block;
+    font-family: "Lucida Grande","Lucida Sans Unicode","Segoe UI",Helvetica,Arial,sans-serif;
+	float:left;
+    padding:0px;
+}
+
+#showDrinkIngredients {
+    display: inline-block;
+    font-family: "Lucida Grande","Lucida Sans Unicode","Segoe UI",Helvetica,Arial,sans-serif;
+	float:left;
+    padding:0px;
+}
+
+#showDrinkMixingDirections {
+    display: inline-block;
+    font-family: "Lucida Grande","Lucida Sans Unicode","Segoe UI",Helvetica,Arial,sans-serif;
+	float:left;
+    padding:0px;
+    border-top: 0px;
+}
+
+#showDrinkServingGlass {
+    display: inline-block;
+    float:left;
+    padding:0px;
+}
+
+#showDescription {
+    display: inline-block;
+    font-family: "Lucida Grande","Lucida Sans Unicode","Segoe UI",Helvetica,Arial,sans-serif;
+	float:left;
+    padding:0px;
+}
+
+/*JS table attributes for sidebar.*/
+table,th,td {
+    border-collapse: collapse;
+    border-spacing: 10px 50px;
+    background-color: white;
+}
+        
+th,td {
+    padding: 15px;
+}
+
+th {
+	font-family: "Lucida Grande","Lucida Sans Unicode","Segoe UI",Helvetica,Arial,sans-serif;
+	background-color: black;
+	color: lightblue;
+}
+
+/*JS attributes for text.*/
+#mix {
+    display: inline-block;
+    font-family: "Lucida Grande","Lucida Sans Unicode","Segoe UI",Helvetica,Arial,sans-serif;
+	float:left;
+    padding:5px;
+} 
+
+/*navigation attributes*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    border: 1px solid #555;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li {
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+a {
+	padding-bottom: 5px;
+}
+
+a.button {
+    background-color: blue; /* Green */
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid green;
+    cursor: pointer;
+    float: left;
+    width: 84%;
+}
+
+.button {
+    position: relative;
+    border: none;
+    color: #FFFFFF;
+    -webkit-transition-duration: 0.8s; /* Safari */
+    transition-duration: 0.4s;
+    overflow: hidden;
+ }
+
+.button:hover{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+

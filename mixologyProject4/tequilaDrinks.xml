@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/tequilaDrinks.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<tequilaDrinks>
+			<group category="tequila">
+				<title>Acapulco Bay</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Gran Centenario Plata Tequila</ingredients>
+					<ingredients>1 oz. Rhum Barbancourt</ingredients>
+					<ingredients>3 oz. pineapple juice</ingredients>
+					<ingredients>3 oz. grapefruit juice</ingredients>
+					<ingredients>1 oz. orgeat syrup or simple syrup</ingredients>
+					<ingredients>Pineapple stick</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except pineapple stick, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Hurricane glass.</mixing_directions>
+					<mixing_directions>Garnish with pineapple stick.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Hurricane Glass</serving_glass>
+				<images>images/hurricane_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Berta's Special</title>
+				<ingredients-list>
+					<ingredients>2 oz. tequila</ingredients>
+					<ingredients>Juice of 1 lime</ingredients>
+					<ingredients>1 tsp. sugar syrup or honey</ingredients>
+					<ingredients>Several dashes orange bitters</ingredients>
+					<ingredients>1 egg white</ingredients>
+					<ingredients>Club soda</ingredients>
+					<ingredients>Lime slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except soda, in a shaker or blender with cracked ice.</mixing_directions>
+					<mixing_directions>Pour into a 14-oz. Collins glass.</mixing_directions>
+					<mixing_directions>Fill with club soda.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+					<mixing_directions>Garnish with a lime slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Café Azteca</title>
+				<ingredients-list>
+					<ingredients>1 oz. Hornitos Sauza Tequila</ingredients>
+					<ingredients>1 oz. Kahlua</ingredients>
+					<ingredients>1 cup vanilla ice cream</ingredients>
+					<ingredients>1 tsp. instant coffee</ingredients>
+				<ingredients>Whipped cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except whipped cream, with cracked ice in a blender.</mixing_directions>
+					<mixing_directions>Serve in a wine goblet.</mixing_directions>
+					<mixing_directions>Top with whipped cream.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Daniel De Oro</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. tequila</ingredients>
+					<ingredients>Orange juice</ingredients>
+					<ingredients>Damiana</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Add ice cubes in a tall Collins glass.</mixing_directions>
+					<mixing_directions>Pour in tequila.</mixing_directions>
+					<mixing_directions>Fill with orange juice.</mixing_directions>
+					<mixing_directions>Top with a float of Damiana.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>El Cid</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. tequila</ingredients>
+					<ingredients>1 oz. lemon juice or lime juice</ingredients>
+					<ingredients>1/2 oz. orgeat syrup</ingredients>
+					<ingredients>Tonic water</ingredients>
+					<ingredients>Grenadine</ingredients>
+					<ingredients>Lime slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour tequila, juice, and syrup into a tall Collins glass.</mixing_directions>
+					<mixing_directions>Mix well.</mixing_directions>
+					<mixing_directions>Add cracked ice.</mixing_directions>
+					<mixing_directions>Fill with tonic.</mixing_directions>
+					<mixing_directions>Top with a dash or two of grenadine.</mixing_directions>
+					<mixing_directions>decorate with lime slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Frostbite</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. white tequila</ingredients>
+					<ingredients>1/2 oz. white créme de cacao</ingredients>
+					<ingredients>3/4 oz. blue curaçao</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Whiskey Sour glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Whiskey Sour Glass</serving_glass>
+				<images>images/whiskey_sour_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Gentle Ben</title>
+				<ingredients-list>
+					<ingredients>1 oz. white tequila</ingredients>
+					<ingredients>1 oz. vodka</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>3 oz. orange juice</ingredients>
+					<ingredients>1 tsp. sloe gin</ingredients>
+					<ingredients>Orange slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except slow gin, in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a a double Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Float sloe gin on top of drink.</mixing_directions>
+					<mixing_directions>Garnish with an orange slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Hot Pants</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. tequila</ingredients>
+					<ingredients>3/4 oz. peppermint schnapps</ingredients>
+					<ingredients>3/4 oz. grapefruit juice</ingredients>
+					<ingredients>1/2 tsp. grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients in a shaker or blender with cracked ice.</mixing_directions>
+					<mixing_directions>Strain.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Juanito's Temptation</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Gran Centenario Reposado Tequila</ingredients>
+					<ingredients>1 oz. white créme de cacao</ingredients>
+					<ingredients>1/2 oz. Stolichnaya Vanilla Vodka</ingredients>
+					<ingredients>2 oz. cream</ingredients>
+					<ingredients>Toasted coconut</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except coconut and cherry, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Serve in a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Sprinkle toasted coconut on top.</mixing_directions>
+					<mixing_directions>Garnish with a cherry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Margarita</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. tequila, white or gold</ingredients>
+					<ingredients>1/2 oz. triple sec</ingredients>
+					<ingredients>Juice of 1/2 large or one small lime</ingredients>
+					<ingredients>Coarse salt</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix tequila, triple sec, and lime juice with cracked ice in a shaker or blender with plenty of cracked ice.</mixing_directions>
+					<mixing_directions>Rub rim of a chilled cocktail glass with a piece of cut lime.</mixing_directions>
+					<mixing_directions>Dip the rim of the glass in a saucer of salt until it is evenly coated.</mixing_directions>
+					<mixing_directions>Strain.</mixing_directions>
+					<mixing_directions>Pour Margarita mixture into glass.</mixing_directions>
+					<mixing_directions>Garnish with a thin slice of lime.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Peachtree Margarita</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. tequila</ingredients>
+					<ingredients>1 oz. DeKuyper Peachtree Schnapps</ingredients>
+					<ingredients>Juice of 1 lime</ingredients>
+					<ingredients>Salt</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass that has been rimmed with salt.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Rosita</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. tequila</ingredients>
+					<ingredients>1 oz. Campari</ingredients>
+					<ingredients>1/2 oz. dry vermouth</ingredients>
+					<ingredients>1/2 oz. sweet vermouth</ingredients>
+					<ingredients>Lemon or orange twist</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Put some cracked ice into a double Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Add all ingredients except fruit peel.</mixing_directions>
+					<mixing_directions>stir until mixed.</mixing_directions>
+					<mixing_directions>Squeeze fruit peel over drink</mixing_directions>
+					<mixing_directions>drop peel into glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Sangrita</title>
+				<ingredients-list>
+					<ingredients>2 cups tomato juice</ingredients>
+					<ingredients>1 cup orange juice</ingredients>
+					<ingredients>2 oz. lime juice</ingredients>
+					<ingredients>2 tsp. Tabasco sauce</ingredients>
+					<ingredients>2 tsp. finely minced onion</ingredients>
+					<ingredients>2 tsp. Worcestershire sauce</ingredients>
+					<ingredients>Several pinches white pepper</ingredients>
+					<ingredients>Celery salt or seasoned salt</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients.</mixing_directions>
+					<mixing_directions>Strain.</mixing_directions>
+					<mixing_directions>Chill in refrigerator.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Tequila Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Gran Centenario Plata or Reposado Tequila</ingredients>
+					<ingredients>3/4 oz. Agavero Tequila Liqueur</ingredients>
+					<ingredients>1 oz. lime juice</ingredients>
+					<ingredients>Salt</ingredients>
+					<ingredients>Lime slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix tequila, Agavero, and lime juice with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>moisten the rim of the glass with lime juice and dip in salt.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with a lime slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="tequila">
+				<title>Zorro</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. tequila</ingredients>
+					<ingredients>1 oz. slivovitz</ingredients>
+					<ingredients>1 oz. lime juice or lemon juice</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients in a shaker or blender with cracked ice.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+		</tequilaDrinks>
+	</drinks>
+</mixology>

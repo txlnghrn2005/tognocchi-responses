@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/rumDrinks.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<rumDrinks>
+		 	<group category="rum">
+				<title>Acapulco</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. ligh rum</ingredients>
+					<ingredients>1/2 oz. triple sec</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+					<ingredients>1 egg white (for two drinks)</ingredients>
+					<ingredients>Mint leaves, slightly torn</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except mint leaves, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with mint.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Bacardi</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. light or gold Bacardi rum</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>1/2 tsp. grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Calico Jack</title>
+				<ingredients-list>
+					<ingredients>1 oz. dark Jamaica rum</ingredients>
+					<ingredients>1 oz. rye or bourbon</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Daiquiri</title>
+				<ingredients-list>
+					<ingredients>2 oz. light rum</ingredients>
+					<ingredients>Juice of 1/2 lime</ingredients>
+					<ingredients>1/2 tsp. sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>El Salvador</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. light rum</ingredients>
+					<ingredients>3/4 oz. Frangelico</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>1 tsp. grenadine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Fer De Lance</title>
+				<ingredients-list>
+					<ingredients>2 oz. Jamaica rum</ingredients>
+					<ingredients>1 oz. lime juice</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+					<ingredients>1 tsp. 151-proof Demerara rum</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except Demerara rum, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Float Demerara rum on top.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Georgia Rum Cooler</title>
+				<ingredients-list>
+					<ingredients>3 oz. light rum</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>1 tsp. Falernum</ingredients>
+					<ingredients>Dash grenadine</ingredients>
+					<ingredients>1 tsp. salted peanuts</ingredients>
+					<ingredients>Club soda</ingredients>
+					<ingredients>Pinch of ground cinnamon</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except club soda and cinnamon, with cracked ice in a blender at high speed for 30 seconds.</mixing_directions>
+					<mixing_directions>Pour into a chilled Collins glass.</mixing_directions>
+					<mixing_directions>Fill with cold club soda.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+					<mixing_directions>Sprinkle with ground cinnamon.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Happy Ale</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gold Barbados rum</ingredients>
+					<ingredients>3 oz. sweet apple cider</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>Lime peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lime peel, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Twist lime peel over drink.</mixing_directions>
+					<mixing_directions>Drop peel into glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Ibo Lele</title>
+				<ingredients-list>
+					<ingredients>2 oz. gold Haitian or Barbados rum</ingredients>
+					<ingredients>1/2 oz. 151-proof Demerara rum</ingredients>
+					<ingredients>1/2 oz. orgeat syrup</ingredients>
+					<ingredients>1 tsp. cream</ingredients>
+					<ingredients>1 egg (for two drinks)</ingredients>
+					<ingredients>Pinch of ground nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except nutmeg, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled wine glass.</mixing_directions>
+					<mixing_directions>Sprinkle with ground nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Jade</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gold Barbados rum</ingredients>
+					<ingredients>1/2 tsp. créme de menthe</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>1/2 tsp. curaçao</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+					<ingredients>Lime slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lime slice, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with lime slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Kamehameha Rum Punch</title>
+				<ingredients-list>
+					<ingredients>1 oz. light rum</ingredients>
+					<ingredients>1 oz. blackberry brandy</ingredients>
+					<ingredients>2 oz. pineapple juice</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+					<ingredients>1 tsp. dark Jamaica rum</ingredients>
+					<ingredients>Pineapple stick</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except Jamaica rum and pineapple stick, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled highball glass.</mixing_directions>
+					<mixing_directions>Top with float of Jamaica rum.</mixing_directions>
+					<mixing_directions>Garnish with pineapple stick.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Lallah Rookh</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. light rum</ingredients>
+					<ingredients>3/4 oz. cognac</ingredients>
+					<ingredients>1/2 oz. créme de vanille or vanilla extract</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+					<ingredients>1 tbsp. whipped cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except whipped cream, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Serve in a chilled wine goblet.</mixing_directions>
+					<mixing_directions>Top with whipped cream.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Magens Bay</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. light rum</ingredients>
+					<ingredients>1/2 oz. apricot brandy</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+					<ingredients>Orange slice</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except orange slice and cherry, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with cherry and orange slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Nancy Friedman's Blue Meanie</title>
+				<ingredients-list>
+					<ingredients>3 oz. light Bermudez rum</ingredients>
+					<ingredients>1 oz. Parait Amour</ingredients>
+					<ingredients>1 oz. lemon juice</ingredients>
+					<ingredients>Dash triple sec</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except triple sec and cherry, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Serve in a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Garnish with cherry.</mixing_directions>
+					<mixing_directions>Top with a dash of triple sec.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Ocho Rios</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. dark Jamaica rum</ingredients>
+					<ingredients>1 oz. guava nectar</ingredients>
+					<ingredients>1/2 oz. heavy cream</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>1 tsp. Falernum or sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Pago Pago</title>
+				<ingredients-list>
+					<ingredients>2 oz. gold Barbados rum</ingredients>
+					<ingredients>1/2 tsp. white créme de cacao</ingredients>
+					<ingredients>1/2 tsp. green Chartreuse</ingredients>
+					<ingredients>1/2 oz. pineapple juice</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled Old Fashioned glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Quarter Deck</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. dark Jamaica rum</ingredients>
+					<ingredients>3/4 oz. cream sherry</ingredients>
+					<ingredients>1 tsp. lime juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Rampart Street Parade</title>
+				<ingredients-list>
+					<ingredients>1 oz. light rum</ingredients>
+					<ingredients>3/4 oz. créme de banane</ingredients>
+					<ingredients>1/2 oz. Southern Comfort</ingredients>
+					<ingredients>1 oz. lime juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>San Juan No.1</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. light rum</ingredients>
+					<ingredients>3/4 oz. brandy</ingredients>
+					<ingredients>1 tsp. grenadine</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Tahiti Club</title>
+				<ingredients-list>
+					<ingredients>2 oz. light or gold rum</ingredients>
+					<ingredients>1/2 oz. pineapple juice</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>1/2 tsp. Maraschino liqueur</ingredients>
+					<ingredients>Orange slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except orange slice, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Garnish with orange slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Undertow</title>
+				<ingredients-list>
+					<ingredients>1 oz. gold Jamaica rum</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1/2 oz. créme de noyaux</ingredients>
+					<ingredients>1 oz. lime juice</ingredients>
+					<ingredients>1 tsp. guava syrup or passion fruit syrup</ingredients>
+					<ingredients>Lime peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lime peel, with cracked ice in a blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled double Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Garnish with lime peel.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Veracruz Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gold Mexican rum</ingredients>
+					<ingredients>1/2 oz. dry vermouth</ingredients>
+					<ingredients>2 oz. lime juice</ingredients>
+					<ingredients>1 oz. sugar syrup</ingredients>
+					<ingredients>1 oz. pineapple juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour chilled Old Fashioned glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Waikoloa Fizz</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Barbados rum</ingredients>
+					<ingredients>1/2 oz. Jamaica rum</ingredients>
+					<ingredients>3 oz. pineapple juice</ingredients>
+					<ingredients>1/2 oz. passion fruit juice</ingredients>
+					<ingredients>1 tsp. coconut syrup</ingredients>
+					<ingredients>Lemon-lime soda</ingredients>
+					<ingredients>Lime slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lemon-lime soda and lime slice, with cracked ice in shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Collins glass.</mixing_directions>
+					<mixing_directions>Fill with lemon-lime soda.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+					<mixing_directions>Garnish with lime slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Xango</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. light rum</ingredients>
+					<ingredients>1/2 oz. Cointreau</ingredients>
+					<ingredients>1 oz. grapefruit juice</ingredients>
+					<ingredients>Lemon peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lemon peel, with cracked ice in a shaker.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+					<mixing_directions>Twist lemon peel over drink.</mixing_directions>
+					<mixing_directions>Drop peel into glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Yaka-Hula-Hicky-Dula</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. dark rum</ingredients>
+					<ingredients>1 1/2 oz. dry vermouth</ingredients>
+					<ingredients>1 1/2 oz. pineapple juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="rum">
+				<title>Zamboanga</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. gold Philippines rum</ingredients>
+					<ingredients>1/2 oz. sweet vermouth</ingredients>
+					<ingredients>1/2 oz. triple sec</ingredients>
+					<ingredients>1 oz. lime juice</ingredients>
+					<ingredients>1 tsp. maple syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pour into a chilled wine goblet.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+		</rumDrinks>
+	</drinks>
+</mixology>

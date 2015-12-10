@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/exotic_sweeteners.xsl" type="text/xsl" ?>
+<mixology>	
+	<exotic_sweeteners>
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Sirop de citron</exotic_sweeteners_name>
+		 	<description>It's mild, lemony zestiness makes this acceptable in those recipes in which sweetened fresh lemon juice would be too acidic.</description>
+		 </sweeteners>
+		 <sweeteners>	
+		 	<exotic_sweeteners_name>Almond syrup</exotic_sweeteners_name>
+		 	<description>This is a versatile sweetener for all kinds of tropical-style drinks. Also know as orgeat syrup or sirop d'amandes, this delightful flavoring may be used in recipes calling for almond extract.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Black currant syrup</exotic_sweeteners_name>
+		 	<description>Sirop de cassis and its slightly alcoholic cousin, crème de cassis, is used in Kir and other vinous and spirituous mixed drinks.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Coffee syrup</exotic_sweeteners_name>
+		 	<description>This sweetener is used mainly in hot and cold drinks as a flavoring and sweetening agent. It can be used in any recipe in which coffee flavor is desired.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Fruit syrups</exotic_sweeteners_name>
+		 	<description>Cherry, raspberry, strawberry, blueberry, gooseberry, and mulberry syrups are used for cooking and may be used in flavoring punches, coolers, and other exotic drinks.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Falernum</exotic_sweeteners_name>
+		 	<description>This spicy, limey, somewhat fruity sweetener with overtones of ginger and almonds originated on the island of Barbados in the West Indies. It was originally concocted,for rum drinks, and remains a superb flavoring for drinks made of various fruit juices and rum, gin, or vodka.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Orange syrups</exotic_sweeteners_name>
+		 	<description>Old-time favorite dates from pre-refrigeration days when fresh oranges were not always available. It has been supplanted by the real thing. Fresh or frozen, and orange liqueurs such as cucaçao and triple sec, which are frequently used in mixed-drink recipes as sweeteners.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Red currant syrup</exotic_sweeteners_name>
+		 	<description>Along with its sister fruit syrup, cassis, sirop de groseilles is widely used in France as a flavoring in the kitchen. It also has many uses as a sweetener for beverages.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Coconut syrup</exotic_sweeteners_name>
+		 	<description>Coconut flavor has become increasingly popular in both food and beverage applications. Coconut syrup has many uses in the making of coolers, punches, and exotic, tropical-style drinks.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Artificial sweeteners</exotic_sweeteners_name>
+		 	<description>A teaspoon of cane sugar contains about 18 calories. Considering the high caloric content of most fruit-based mixed drinks, the use of synthetic sweeteners, unless one's carbohydrate intake is severely restricted, seems hardly worth the effort; but then, you shouldn't be drinking those sweet concoctions to begin with.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Molasses</exotic_sweeteners_name>
+		 	<description>A product of cane juice reduced by boiling. Unsulfured molasses is considered the most desirable for ordinary kitchen uses. It has a role in the sweetening and flavoring of beverages because it is not as sweet as sugar and imparts a distinctive flavor to foods and mixed drinks.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Corn syrup</exotic_sweeteners_name>
+		 	<description>This versatile sweetener has about half the sweetening power of cane sugar, but possesses excellent cooking and food-processing qualities. It is not commonly used in the making of mixed drinks, but has the advantage of smoothing out other ingredients in a mixture and has a more subtle sweetening effect than sugar.</description>
+		 </sweeteners>
+		 
+		 <sweeteners>
+		 	<exotic_sweeteners_name>Jams, jellies, and preserves</exotic_sweeteners_name>
+		 	<description>While it might seem improbable that grape jelly, strawberry jam, or pineapple preserves would ever be used in the making of mixed drinks, these popular staples provide a vast, readily available, inexpensive source of delicious and flavorful sweeteners for punches, cocktails, and party drinks. The electric blender has opened up all kinds of new possibilities, and now, once impossible tasks, such as making frappés quickly to order, are easily accomplished. So too are mixed drinks calling for a dab of orange marmalade, a spoonful of Damson plum preserves, or a dollop of black raspberry jelly.</description>
+		 </sweeteners>
+	</exotic_sweeteners>
+</mixology>

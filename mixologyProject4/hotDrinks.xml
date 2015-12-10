@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/hotDrinks.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<hotDrinks>
+			<group category="hot_drinks">
+				<title>Aberdeen Angus</title>
+				<ingredients-list>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>1/2 oz. heather honey</ingredients>
+					<ingredients>Boiling water</ingredients>
+					<ingredients>2 oz. scotch</ingredients>
+					<ingredients>1 oz. Drambuie</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Put lime juice and honey into a heat-proof mug</mixing_directions>
+					<mixing_directions>Add a little boiling water</mixing_directions>
+					<mixing_directions>Stir until honey is dissolved</mixing_directions>
+					<mixing_directions>Add scotch</mixing_directions>
+					<mixing_directions>Warm Drambuie in a small ladle</mixing_directions>
+					<mixing_directions>Ignite.</mixing_directions>
+					<mixing_directions>Pour blazing into mug</mixing_directions>
+					<mixing_directions>Fill with boiling water</mixing_directions>
+					<mixing_directions>Stir</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Beachcomber's Bracer</title>
+				<ingredients-list>
+					<ingredients>1 tsp. sugar syrup or honey</ingredients>
+					<ingredients>Dash lemon juice</ingredients>
+					<ingredients>Boiling water</ingredients>
+					<ingredients>1 oz. bourbon or rye</ingredients>
+					<ingredients>1 oz. light Jamaica rum</ingredients>
+					<ingredients>1 oz. curaçao</ingredients>
+					<ingredients>Dash Angostura bitters</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Dissolve honey with lemon juice and a little boiling water in a heat-proof mug.</mixing_directions>
+					<mixing_directions>Add bourbon, rum, curaçao, and a dash of bitters..</mixing_directions>
+					<mixing_directions>Fill mug with boiling water.</mixing_directions>
+					<mixing_directions>stir well.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Café Agavero</title>
+				<ingredients-list>
+					<ingredients>1 oz. Agavero Tequila Liqueur</ingredients>
+					<ingredients>1 oz. Stolichnaya Coffee Vodka</ingredients>
+					<ingredients>6 oz. black coffee</ingredients>
+					<ingredients>1 oz. cream</ingredients>
+					<ingredients>1 tsp. créme de cacao</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Stir all ingredients, except créme de cacao, in a large heat-proof mug that has been warmed by a rinsing of boiling water.</mixing_directions>
+					<mixing_directions>Float créme de cacao on top of drink.</mixing_directions>
+					<mixing_directions>Serve immediately.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mugs</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Down East Hot Buttered Rum</title>
+				<ingredients-list>
+					<ingredients>2 tsp. brown sugar</ingredients>
+					<ingredients>1 cup apple cider</ingredients>
+					<ingredients>Cinnamon stick</ingredients>
+					<ingredients>4 whole cloves</ingredients>
+					<ingredients>1 piece lemon peel</ingredients>
+					<ingredients>2 oz. gold label rum</ingredients>
+					<ingredients>Small pat butter</ingredients>
+					<ingredients>Grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>In a warmed, heat-proof mug, add sugar and a little cider that had been heated to the boiling point..</mixing_directions>
+					<mixing_directions>Stir until sugar is dissolved.</mixing_directions>
+					<mixing_directions>Add cinnamon, cloves, lemon peel, and rum.</mixing_directions>
+					<mixing_directions>Fill with hot cider.</mixing_directions>
+					<mixing_directions>Stir.</mixing_directions>
+					<mixing_directions>Top with butter and grated nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Flaming Hot Buttered Rum</title>
+				<ingredients-list>
+					<ingredients>1 tbsp. brown sugar</ingredients>
+					<ingredients>Cinnamon stick</ingredients>
+					<ingredients>Lemon peel</ingredients>
+					<ingredients>Whole cloves</ingredients>
+					<ingredients>Boiling water</ingredients>
+					<ingredients>3 oz. dark Jamaica rum</ingredients>
+					<ingredients>Pinch of sugar</ingredients>
+					<ingredients>1/2 oz. 151-proof Demerara rum</ingredients>
+					<ingredients>Pat of butter</ingredients>
+					<ingredients>Grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Rinse a large, heat-proof mug with boiling water.</mixing_directions>
+					<mixing_directions>Add sugar, cinnamon stick, and a lemon peel studded with cloves.</mixing_directions>
+					<mixing_directions>Pour in enough boiling water to dissolve sugar.</mixing_directions>
+					<mixing_directions>stir in rum.</mixing_directions>
+					<mixing_directions>Fill mug with boiling water.</mixing_directions>
+					<mixing_directions>Place pat of butter on top of drink.</mixing_directions>
+					<mixing_directions>Warm Demerara rum in a ladle.</mixing_directions>
+					<mixing_directions>Add a pinch of sugar, by partially immersing the bowl in hot water.</mixing_directions>
+					<mixing_directions>Ignite rum.</mixing_directions>
+					<mixing_directions>pour blazing into mug.</mixing_directions>
+					<mixing_directions>Add a little additional butter.</mixing_directions>
+					<mixing_directions>Sprinkle with nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Ginger Peachy Tom and Jerry</title>
+				<ingredients-list>
+					<ingredients>1 egg</ingredients>
+					<ingredients>1/2 oz. orgeat syrup</ingredients>
+					<ingredients>1 oz. light rum</ingredients>
+					<ingredients>1 oz. peach-flavored brandy</ingredients>
+					<ingredients>1 oz. milk</ingredients>
+					<ingredients>1 oz. cream</ingredients>
+					<ingredients>Pinch ground ginger</ingredients>
+					<ingredients>Pinch ground cinnamon</ingredients>
+					<ingredients>Pinch ground nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Beat egg yolk in a small bowl.</mixing_directions>
+					<mixing_directions>add orgeat syrup, ground ginger, and cinnamon, and blend well.</mixing_directions>
+					<mixing_directions>Beat egg white separately in a small bowl until stiff.</mixing_directions>
+					<mixing_directions>carefully fold yolk mixture into a large, warmed mug..</mixing_directions>
+					<mixing_directions>Combine peach brandy, rum, milk, and cream in a small saucepan.</mixing_directions>
+					<mixing_directions>Heat.</mixing_directions>
+					<mixing_directions>Pour into mug while stirring constantly.</mixing_directions>
+					<mixing_directions>Sprinkle with topping of ground nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Highland Hot Milk Punch</title>
+				<ingredients-list>
+					<ingredients>2 oz. scotch</ingredients>
+					<ingredients>1 oz. Drambuie</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+					<ingredients>1 whole egg, beaten</ingredients>
+					<ingredients>1 cup milk</ingredients>
+					<ingredients>Pinch powdered cinnamon</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Heat all ingredients, except cinnamon, in a saucepan over low heat.</mixing_directions>
+					<mixing_directions>Stirring from time to time to prevent milk from scorching.</mixing_directions>
+					<mixing_directions>Rinse a heat-proof mug with boiling water.</mixing_directions>
+					<mixing_directions>Fill with hot punch.</mixing_directions>
+					<mixing_directions>Sprinkle cinnamon on top.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Imperial House Bracer</title>
+				<ingredients-list>
+					<ingredients>2 egg yolks</ingredients>
+					<ingredients>3 oz. cream or half-and-half</ingredients>
+					<ingredients>3 oz. ruby port</ingredients>
+					<ingredients>2 oz. cognac</ingredients>
+					<ingredients>Grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Beat egg yolks.</mixing_directions>
+					<mixing_directions>Heat in cream.</mixing_directions>
+					<mixing_directions>Gradually mix in port, using whisk.</mixing_directions>
+					<mixing_directions>Add cognac.</mixing_directions>
+					<mixing_directions>Heat in a saucepan over low heat.</mixing_directions>
+					<mixing_directions>Stir well.</mixing_directions>
+					<mixing_directions>Serve in warmed wine goblets.</mixing_directions>
+					<mixing_directions>Sprinkle with grated nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Jack's Apple</title>
+				<ingredients-list>
+					<ingredients>2 oz. applejack</ingredients>
+					<ingredients>4 oz. hot apple cider</ingredients>
+					<ingredients>1 tsp. honey</ingredients>
+					<ingredients>Pinch ground nutmeg</ingredients>
+					<ingredients>Pinch ground cinnamon</ingredients>
+					<ingredients>Slice baked apple</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Heat applejack and cider in a saucepan.</mixing_directions>
+					<mixing_directions>stir in honey until dissolved.</mixing_directions>
+					<mixing_directions>Pour into a warmed heat-proof mug.</mixing_directions>
+					<mixing_directions>sprinkle with ground nutmeg and cinnamon.</mixing_directions>
+					<mixing_directions>Garnish with backed apple slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Kent's Corners Hot Cup</title>
+				<ingredients-list>
+					<ingredients>5 oz. cider</ingredients>
+					<ingredients>2 oz. dark Jamaica rum</ingredients>
+					<ingredients>1 oz. maple syrup</ingredients>
+					<ingredients>1/2 tsp. lemon juice</ingredients>
+					<ingredients>Cinnamon stick</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Heat all ingredients in a saucepan.</mixing_directions>
+					<mixing_directions>Bring to boiling point, (do not boil).</mixing_directions>
+					<mixing_directions>Serve in a warm mug..</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Locomotive</title>
+				<ingredients-list>
+					<ingredients>6 oz. dry red wine</ingredients>
+					<ingredients>1/2 oz. curaçao</ingredients>
+					<ingredients>1/2 oz. Maraschino liqueur</ingredients>
+					<ingredients>1/2 oz. sugar syrup or honey</ingredients>
+					<ingredients>1 egg</ingredients>
+					<ingredients>Lemon slice</ingredients>
+					<ingredients>Ground cinnamon</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>In the flaming pan of a chafing dish mix red wine, curaçao, Maraschino, and honey until honey is dissolved..</mixing_directions>
+					<mixing_directions>Gradually warm wine over direct heat (do not boil).</mixing_directions>
+					<mixing_directions>stir in a lightly beaten egg.</mixing_directions>
+					<mixing_directions>bring to a simmer.</mixing_directions>
+					<mixing_directions>Pour into a warmed, heat-proof mug.</mixing_directions>
+					<mixing_directions>Add lemon slice and pinch of cinnamon.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Mexican Coffee</title>
+				<ingredients-list>
+					<ingredients>1 oz. Kahlua</ingredients>
+					<ingredients>1/2 oz. tequila</ingredients>
+					<ingredients>Hot black coffee</ingredients>
+					<ingredients>1 tbsp. whipped cream</ingredients>
+					<ingredients>Pinch ground cinnamon</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour Kahlua, tequila, and hot coffee into a warmed irish coffee glass.</mixing_directions>
+					<mixing_directions>Stir well.</mixing_directions>
+					<mixing_directions>Top with whipped cream.</mixing_directions>
+					<mixing_directions>Sprinkle of cinnamon.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Irish Coffee Glass</serving_glass>
+				<images>images/irish_creme_glass.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Pedro MacDonald's Cup</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. scotch</ingredients>
+					<ingredients>2 oz. cream or olorosa sherry</ingredients>
+					<ingredients>1/2 tsp. lemon juice</ingredients>
+					<ingredients>1 tsp. sugar syrup or honey</ingredients>
+					<ingredients>Several dashes Angostura bitters</ingredients>
+					<ingredients>Several dashes orange bitters</ingredients>
+					<ingredients>Cinnamon stick</ingredients>
+					<ingredients>Orange peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Heat all ingredients with 2 oz. of water in a saucepan.</mixing_directions>
+					<mixing_directions>Pour into a heat-proof mug.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Rock and Rye Toddy</title>
+				<ingredients-list>
+					<ingredients>3 oz. rock and rye</ingredients>
+					<ingredients>Dash Angostura bitters</ingredients>
+					<ingredients>Lemon slice</ingredients>
+					<ingredients>Cinnamon stick</ingredients>
+					<ingredients>Boiling water</ingredients>
+					<ingredients>Grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Rinse a heat-proof mug with hot water.</mixing_directions>
+					<mixing_directions>Add rock and rye, bitters, lemon slice, and cinnamon stick..</mixing_directions>
+					<mixing_directions>Fill with boiling water.</mixing_directions>
+					<mixing_directions>Stir well.</mixing_directions>
+					<mixing_directions>Sprinkle with grated nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Sheila Goodman's Ginken Soup</title>
+				<ingredients-list>
+					<ingredients>1 1/2 cups chicken soup</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>Pinch white pepper</ingredients>
+					<ingredients>1/2 tsp. chopped parsley</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Prepare soup according to directions.</mixing_directions>
+					<mixing_directions>Heat in a saucepan.</mixing_directions>
+					<mixing_directions>Add gin when simmering, but not to boil.</mixing_directions>
+					<mixing_directions>Add pepper and parsley.</mixing_directions>
+					<mixing_directions>Serve piping hot in a large mug.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Tom and Jerry</title>
+				<ingredients-list>
+					<ingredients>1 egg</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+					<ingredients>1 oz. dark Jamaica rum</ingredients>
+					<ingredients>1 oz. cognac</ingredients>
+					<ingredients>Grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Separate egg.</mixing_directions>
+					<mixing_directions>Beat the yolk and white individually.</mixing_directions>
+					<mixing_directions>Fold white and yolk together.</mixing_directions>
+					<mixing_directions>Add syrup.</mixing_directions>
+					<mixing_directions>Put into a warmed heat-proof mug.</mixing_directions>
+					<mixing_directions>Add rum and cognac.</mixing_directions>
+					<mixing_directions>Fill with boiling water.</mixing_directions>
+					<mixing_directions>Sprinkle with grated nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Vesuvio</title>
+				<ingredients-list>
+					<ingredients>1 cup hot strong black coffee</ingredients>
+					<ingredients>1 oz. sambuca</ingredients>
+					<ingredients>1 sugar cube</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Fill warmed cup with hot coffee.</mixing_directions>
+					<mixing_directions>Using an inverted teaspoon, carefully float half of the sambuca on top of the coffee.</mixing_directions>
+					<mixing_directions>Place a sugar cube in a spoon.</mixing_directions>
+					<mixing_directions>pour remainder of sambuca into spoon.</mixing_directions>
+					<mixing_directions>Ignite.</mixing_directions>
+					<mixing_directions>Drip blazing spoon into cup.</mixing_directions>
+					<mixing_directions>Let cup flame for a few seconds.</mixing_directions>
+					<mixing_directions>Stir coffee to extinguish flame.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Coffee Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="hot_drinks">
+				<title>Windjammer</title>
+				<ingredients-list>
+					<ingredients>Peel of half a large orange</ingredients>
+					<ingredients>Brown sugar</ingredients>
+					<ingredients>2 oz. gold Jamaica or Barbados rum</ingredients>
+					<ingredients>1 oz. rock and rye</ingredients>
+					<ingredients>1 oz. curaçao</ingredients>
+					<ingredients>Lemon peel</ingredients>
+					<ingredients>Boiling water</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Cut orange peel in a thin spiral.</mixing_directions>
+					<mixing_directions>Moisten, and coat with brown sugar.</mixing_directions>
+					<mixing_directions>Place spiral in a heat-proof mug.</mixing_directions>
+					<mixing_directions>Add about 1/2 oz. of warmed rum.</mixing_directions>
+					<mixing_directions>Flame until sugar is caramelized.</mixing_directions>
+					<mixing_directions>Add remainder of rum, rock and rye, curaçao, and lemon peel.</mixing_directions>
+					<mixing_directions>Fill with boiling water.</mixing_directions>
+					<mixing_directions>Stir well.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+		</hotDrinks>
+	</drinks>
+</mixology>

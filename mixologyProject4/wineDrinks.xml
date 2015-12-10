@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/wineDrinks.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<wineDrinks>
+			<group category="wine">
+				<title>Achampañado</title>
+				<ingredients-list>
+					<ingredients>4 oz. dry vermouth</ingredients>
+					<ingredients>1/2 tsp. sugar syrup</ingredients>
+					<ingredients>Juice of 1/4 lime</ingredients>
+					<ingredients>Club soda</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour vermouth into a chilled Collins glass with several ice cubes.</mixing_directions>
+					<mixing_directions>Add sugar syrup, lime juice.</mixing_directions> 
+					<mixing_directions>Stir until sugar syrup is dissolved.</mixing_directions>
+					<mixing_directions>Fill glass with cold club soda.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+				</directions>
+				<glass>
+					<serving_glass>Old Fashioned Glass</serving_glass>
+					<images>images/old_fashioned_glass.jpg</images>
+				</glass>
+			</group>
+			<group category="wine">
+				<title>Bahia</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. amontillado sherry</ingredients>
+					<ingredients>1 1/2 oz. dry vermouth or sweet vermouth</ingredients>
+					<ingredients>1/2 tsp. Pernod or Herbsaint</ingredients>
+					<ingredients>Several dashes Peychaud's bitters, orange bitters, or Angostura bitters</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Stir briskly with cracked ice in a pitcher or mixing glass.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Canarie D'or</title>
+				<ingredients-list>
+					<ingredients>1 oz. cognac or armagnac</ingredients>
+					<ingredients>Brut champagne</ingredients>
+					<ingredients>1/2 oz. yellow Chartreuse</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pre-chill all ingredients.</mixing_directions>
+					<mixing_directions>Pour cognac into a chilled tulip glass.</mixing_directions> 
+					<mixing_directions>Fill with cold champagne.</mixing_directions> 
+					<mixing_directions>Float yellow Chartreuse on top.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Champagne Glass</serving_glass>
+				<images>images/champagne_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Diablo</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. white port</ingredients>
+					<ingredients>1 oz. dry vermouth</ingredients>
+					<ingredients>Dash lemon juice</ingredients>
+					<ingredients>Lemon peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix port, vermouth, and lemon juice with cracked ice in a shaker.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions> 
+					<mixing_directions>Twist lemon peel over drink.</mixing_directions>
+					<mixing_directions>Drop into glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>French 75</title>
+				<ingredients-list>
+					<ingredients>1 oz. lemon juice</ingredients>
+					<ingredients>1/2 oz. sugar syrup</ingredients>
+					<ingredients>1 1/2 oz. cognac</ingredients>
+					<ingredients>Brut champagne</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix lemon juice and syrup with several ice cubes in a chilled Collins glass until syrup is dissolved.</mixing_directions>
+					<mixing_directions>Add cognac.</mixing_directions>
+					<mixing_directions>Fill with cold champagne.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>General Harrison's Eggnog</title>
+				<ingredients-list>
+					<ingredients>1 whole egg</ingredients>
+					<ingredients>1 cup hard cider</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled highball glass.</mixing_directions>
+				</directions><glass>				
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Imperial House Bracer</title>
+				<ingredients-list>
+					<ingredients>2 oz. port</ingredients>
+					<ingredients>1 oz. cognac</ingredients>
+					<ingredients>1 egg yolk</ingredients>
+					<ingredients>3/4 oz. cream</ingredients>
+					<ingredients>Grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except nutmeg, with cracked ice in a blender or shaker</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions> 
+					<mixing_directions>Top with a sprinkle of nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>J.P. Fizz</title>
+				<ingredients-list>
+					<ingredients>3 oz. Dubonnet rouge</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1/2 oz. curaçao</ingredients>
+					<ingredients>Club soda</ingredients>
+					<ingredients>Orange or lemon slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Stir Dubonnet, gin, and curaçao in a mixing glass with cracked ice.</mixing_directions>
+					<mixing_directions>Strain into a chilled Collins glass.</mixing_directions> 
+					<mixing_directions>Add several ice cubes and fill with cold club soda.</mixing_directions> 
+					<mixing_directions>Stir gently.</mixing_directions>
+					<mixing_directions>Garnish with orange slice or lemon slice.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Kir</title>
+				<ingredients-list>
+					<ingredients>1/2 oz. créme de cassis</ingredients>
+					<ingredients>5 oz. dry white wine</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pre-chill cassis and wine.</mixing_directions>
+					<mixing_directions>Mix together in a chilled wine glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Le Coq Hardy Champagne Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 sugar cube</ingredients>
+					<ingredients>Dash Angostura bitters or orange bitters</ingredients>
+					<ingredients>1 drop Fernet Branca</ingredients>
+					<ingredients>1 drop Grand Marnier</ingredients>
+					<ingredients>1 drop cognac</ingredients>
+					<ingredients>Brut champagne</ingredients>
+					<ingredients>Orange peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Place sugar cube in a chilled champagne tulip glass.</mixing_directions>
+					<mixing_directions>Saturate it with bitters, Fernet Branca, Grand Marnier, and cognac.</mixing_directions> 
+					<mixing_directions>Fill with cold champagne.</mixing_directions>
+					<mixing_directions>Garnish with a small strip of orange zest.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Tulip Glass</serving_glass>
+				<images>images/tulip_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Maharajah's Burra-peg</title>
+				<ingredients-list>
+					<ingredients>1 sugar cube</ingredients>
+					<ingredients>Several dashes Angostura bitters</ingredients>
+					<ingredients>2 oz. cognac</ingredients>
+					<ingredients>Brut champagne</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Saturate a sugar cube with bitters.</mixing_directions>
+					<mixing_directions>Put into a chilled balloon glass.</mixing_directions>
+					<mixing_directions>Add chilled cognac.</mixing_directions>
+					<mixing_directions>Fill with cold champagne.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Balloon Glass</serving_glass>
+				<images>images/balloon_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Nightmare Abbey Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Dubonnet rouge</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>3/4 oz. cherry brandy</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Pacific Palisades</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. Campari</ingredients>
+					<ingredients>1 oz. orange juice</ingredients>
+					<ingredients>Brut champagne</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix Campari and orange juice in a chilled wine goblet with an ice cube.</mixing_directions>
+					<mixing_directions>Fill with cold champagne.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Champagne Glass</serving_glass>
+				<images>images/champagne_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Race Cup Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 oz. sweet vermouth</ingredients>
+					<ingredients>1 oz. tequila</ingredients>
+					<ingredients>3 oz. grapefruit juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients with cracked ice in a shaker or blender.</mixing_directions> 
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Satin's Whiskers Cocktail</title>
+				<ingredients-list>
+					<ingredients>1 1/2 oz. sweet vermouth</ingredients>
+					<ingredients>1 1/2 oz. dry vermouth</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1/2 oz. Grand Marnier</ingredients>
+					<ingredients>4 oz. orange juice</ingredients>
+					<ingredients>Dash orange bitters</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix with cracked ice in a a blender or shaker.</mixing_directions>
+					<mixing_directions>Strain into a chilled wine glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Tempter Cocktail</title>
+				<ingredients-list>
+					<ingredients>2 oz. port</ingredients>
+					<ingredients>2 oz. apricot-flavored brandy</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Stir with ice in a mixing glass.</mixing_directions>
+					<mixing_directions>Strain into a chilled cocktail glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Cocktail Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Vermouth Cassis</title>
+				<ingredients-list>
+					<ingredients>3 oz. dry vermouth</ingredients>
+					<ingredients>1 oz. créme de cassis</ingredients>
+					<ingredients>Club soda</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix vermouth and cassis with ice cubes in a chilled highball glass.</mixing_directions>
+					<mixing_directions>Fill with cold club soda.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Waltzing Matilda</title>
+				<ingredients-list>
+					<ingredients>4 oz. dry white wine</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>1 1/2 oz. passion fruit juice</ingredients>
+					<ingredients>1/4 tsp. curaçao</ingredients>
+					<ingredients>Club soda, ginger ale, or lemon-lime soda</ingredients>
+					<ingredients>Orange peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix wine, gin, passion fruit, and curaçao with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Collins glass.</mixing_directions>
+					<mixing_directions>Add several ice cubes and fill with cold soda.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+					<mixing_directions>Twist orange peel over drink.</mixing_directions> 
+					<mixing_directions>Drop peel into glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Yellow Rattler</title>
+				<ingredients-list>
+					<ingredients>1 oz. sweet vermouth</ingredients>
+					<ingredients>1 oz. dry vermouth</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>3 oz. orange juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix with cracked ice in a blender or shaker.</mixing_directions>
+					<mixing_directions>serve in a chilled wine glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="wine">
+				<title>Zanzibar</title>
+				<ingredients-list>
+					<ingredients>3 oz. dry vermouth</ingredients>
+					<ingredients>1 oz. gin</ingredients>
+					<ingredients>3/4 oz. lemon juice</ingredients>
+					<ingredients>1 tsp. sugar syrup</ingredients>
+					<ingredients>Several dashes oranges bitters</ingredients>
+					<ingredients>Lemon peel</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lemon peel, with cracked ice in a blender or shaker.</mixing_directions>
+					<mixing_directions>Strain into a chilled Delmonico glass.</mixing_directions>
+					<mixing_directions>Twist lemon peel over drink.</mixing_directions>
+					<mixing_directions>Drop peel into glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Delmonico Glass</serving_glass>
+		 		<images>images/delmonico_glass.jpg</images></glass>
+			</group> 
+		</wineDrinks>
+	</drinks>
+</mixology>

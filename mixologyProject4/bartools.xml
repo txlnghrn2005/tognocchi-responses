@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/bartools.xsl" type="text/xsl" ?>
+<mixology>	
+	<bartools>
+		<tool>
+			<tool_name>Professional Bartender's Shaker Set</tool_name>
+			<description>Consiting of a sixteen-ounce mixing glass and metal top, this is a must have.</description>
+		</tool>
+		<tool>
+			<tool_name>Double-ended Jigger</tool_name>
+			<description>The standard metal jigger measures one-and-a-half fluid ounces in the large end and one fluid ounce in the small end. Check capacity with a chemist's or have it checked by your pharmacist, many home mixing cups are not precise.</description>
+		</tool>
+		<tool>
+			<tool_name>Strainers</tool_name>
+			<description>They come in all shapes and sizes. Get the regular professional bar strainer that fits the mixing glass in your shaker set.</description>
+		</tool>
+		<tool>
+			<tool_name>Electric Blender</tool_name>
+			<description>These high-speed mixers are essential for making many of today's popular mixed drinks. A good blender with a strong motor and variable speeds aerates most drinks in a way that no amount of shaking can accomplish. Some models have blades strong enough to frappe ice cubes.</description>
+		</tool>
+		<tool>
+			<tool_name>Corkscrew</tool_name>
+			<description>Cork extractors come in many styles, but the secret to getting one that can really pull corks is to look for a coil and not a screw. The conventional screw-type cork-puller is not wide enough to get a good grip on a bad cork. The coil-type does a better job because it is distributed through the cork in a wider area. Look for one of four types: the sommelier's corkscrew, the gourmet or wing-type corkscrew, the double-action corkscrew, and the twistup corkscrew.</description>
+		</tool>
+		<tool>
+			<tool_name>Mixing Spoons or Barspoons</tool_name>
+			<description>A long-handled spoon is indispensable for stirring mixed drinks, especially in a tall glass. The ten-inch stainless spoon is popular, but some prefer a twelve- of fourteen-inch spoon instead.</description>
+		</tool>
+		<tool>
+			<tool_name>Measuring Spoons</tool_name>
+			<description>A common kitchen-variety set of four nesting spoons.</description>
+		</tool>
+		<tool>
+			<tool_name>Ice Bucket and ice tongs</tool_name>
+			<description>Keeping a supply of ice by the bar for home entertaining eliminates the need to run back and forth to the refrigerator to get cubes. Ice tongs are a genteel way of serving ice in a drink.</description>
+		</tool>
+		<tool>
+			<tool_name>Cutting board and knife</tool_name>
+			<description>This is basic equipment for any bar and useful for all kinds of drink preparations. Buy a heavy, laminated board no more than eight inches in diameter.</description>
+		</tool>
+		<tool>
+			<tool_name>Pitchers</tool_name>
+			<description>Indespensable for home entertaining, pitchers are necessary for serving water and fruit juices and making stirred drinks such as Martinis and Manhattans. Highballs for guests made with water from a pitcher rather than from the tap says something about the host.</description>
+		</tool>
+		<tool>
+			<tool_name>Juice Squeezers</tool_name>
+			<description>Hand-held and electric juice squeezers are an important bar item. The new generation of compact electric juice squeezers is a real boon to drink-making.</description>
+		</tool>
+		<tool>
+			<tool_name>Muddler</tool_name>
+			<description>A good muddler is made of an extremely hard wood such as lignum vitae. It is used to crush condiments and muddle sugar, fruit, and mint for Juleps, Smashes, and Old Fashioneds.</description>
+		</tool>
+		<tool>
+			<tool_name>Can ans Bottle Openers</tool_name>
+			<description>These housekeeping items seem unimportant until they are needed. Keep a sturdy bottle opener, a piercing can opener for soda, and an anchor opener for jars in the bar and another set in the kitchen. A snubber for stubborn jar lids and a conventional, key-operated can opener should be available if needed.</description>
+		</tool>
+	</bartools>
+</mixology>

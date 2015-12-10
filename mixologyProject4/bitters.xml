@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/bitters.xsl" type="text/xsl" ?>
+<mixology>	
+	<bitters>
+		 <bitter>
+		 	<bitter_name>Abbott's Bitters</bitter_name>
+		 	<description>A popular general-purpose preparation for food and beverage recipes made by the C.W. Abbott Co. of Baltimore, Maryland.</description>
+		 </bitter>
+
+		 <bitter>
+		 	<bitter_name>Amer Picon</bitter_name>
+		 	<description>A bitter formulation of cinchona bark, oranges, and gentian, which has become popular as an aperitif taken neat or mixed with vermouth, a dash of grenadine, or a soft drink. Made in France by Picon and Co. at Levallois Perret.</description>
+		 </bitter>
+
+		 <bitter>
+		 	<bitter_name>Angostura Aromatic Bitters</bitter_name>
+		 	<description>Introduced in 1824 from a recipe developed by a surgeon, Dr. Johann Gottlieb Benjamin Siegert, who served in the Prussian army under Marshal Blucher at the battle of Waterloo, Angostura bitters have become indispensable for the making of a proper Pink Gin, Old Fashioned, or Manhattan cocktail. The name comes from the town of Angostura, Venezuela, and not angostura bark, which is not used in its manufacture.</description>
+		 </bitter>
+		 	
+		 <bitter>
+		 	<bitter_name>Baker's Bitters</bitter_name>
+		 	<description>This is a famous old name in aromatic bitters. Although it is not in wide distribution, correspondents report that they come across a bottle occasionally and eagerly snap it up.</description>
+		 </bitter>
+		 	
+		 <bitter>
+		 	<bitter_name>Boonekamp Bitters</bitter_name>
+			<description>A Dutch product dating back to 1743, this bitters is largely a European following.</description>
+		 </bitter>
+		 	
+		 <bitter>
+		 	<bitter_name>Calisay</bitter_name>
+		 	<description>A popular Catalonian specialty made in Barcelona from cinchona and other ingredients. It is more commonly served as an aperitif and as a digestive than used as an ingredient in mixed drinks, although it is called for in recipes that appear in old bar books.</description>
+		 </bitter>
+		 	
+		 <bitter>
+		 	<bitter_name>Campari</bitter_name>
+		 	<description>This aperitif with its distinctive brilliant red color and pungent quinine flavor has seemingly become the national drink of Italy. It is frequently drunk with soda or tonic water and is an essential ingredient for several cocktails such as the Negroni and the Americano.</description>
+		 </bitter>
+		 	
+		 <bitter>
+		 	<bitter_name>China-Martini</bitter_name>
+		 	<description>Another popular Italian bitter liqueur made by Martini and Rossi, and characterized by a quinine flavor and a syrup consistency. It is not used generally as a cocktail ingredient, but is served rather as an aperitif and an after-dinner drink.</description>
+		 </bitter>
+		 	
+		 <bitter>
+		 	<bitter_name>Fernet Branca</bitter_name>
+		 	<description>Originally compounded for use as a stomachic, Fernet Branca is popular with some drinkers as a hangover remedy. It is a complex, assertive combination of a variety of ingredients including cinchona bark, gentian, rhubarb, calamus, angelica, myrrh, chamomile, and peppermint. It is used as an aperitif to stimulate flagging appetites and as an ingredient in mixed drinks requiring a strong, bitter additive.</description>
+		 </bitter>
+		 	
+		 <bitter>
+		 	<bitter_name>Jaegermeister</bitter_name>
+		 	<description>This complex, aromatic concoction containing some 56 herbs, roots, and fruits has been popular in Germany since its introduction in 1878. It may be used as a cocktail bitters, but is traditionally consumed as an aperitif or an after-dinner drink.</description>
+		 </bitter>
+		 	
+		 <bitter>
+		 	<bitter_name>Orange Bitters</bitter_name>
+		 	<description>Specified in many mixed-drink recipes, orange bitters was very popular during the heyday of the cocktail in World War I era and the Roaring Twenties that followed. The best orange bitters reputedly come from England, where famous old names such as Field, Son and Co. and Holloway's orange bitters were considered first-quality products.</description>
+		 </bitter>
+		 
+		 <bitter>
+		 	<bitter_name>Peychaud's Bitters</bitter_name>
+		 	<description>Purportedly derived from an ancient and closely guarded family recipe that Antoine Amedee Peychaud, and a young French Creole, brought to New Orleans around the latter part of the eighteenth century. Peychaud, an apothecary, made his bitters famous in Louisiana by dispensing it from his pharmacy mixed with French brandy. It was later sold commercially by the L.E. Jung and Wulff Co. of New Orleans and became a staple for many mixed drinks because of its pungent bitter anise flavor. It is essential for making the Sazerac, a classic New Orleans libation.</description>
+		 </bitter>
+		 
+		 <bitter>
+		 	<bitter_name>Stonsdorfer</bitter_name>
+		 	<description>A German proprietary bitters popular as a digestive.</description>
+		 </bitter>	
+		 
+		 <bitter>
+		 	<bitter_name>Underberg</bitter_name>
+		 	<description>Well known in Germany, where it is made, is reputed to work wonders in ameliorating hangovers and calming the morning-after "clangs."</description>
+		 </bitter>	
+		 
+		 <bitter>
+		 	<bitter_name>Unicum</bitter_name>
+		 	<description>A fine old name in bitters since 1840 by the venerable Viennese firm Zwack, originally from Hungary and renowned for their outstanding clear fruit brandies.</description>
+		 </bitter>
+		 	
+		 <bitter>
+		 	<bitter_name>Peach Bitters</bitter_name>
+		 	<description>Popular when granddad rode home from his favorite saloon in a hansom cab, peach bitters has gone out of style in the making of mixed drinks.</description>
+		 </bitter>
+	</bitters>
+</mixology>

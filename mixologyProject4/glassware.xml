@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/glassware.xsl" type="text/xsl" ?>
+<mixology>	
+	<glassware>
+		 <glasswrtype>
+		 	<glassware_type>Shot glass</glassware_type>
+		 	<description>The original bar measure seen littering saloon bars in Western movies. Designed to hold one drink ranging from a fraction of an ounce to two ounces or more. Some cleverly designed shot glasses appear to be enormous, but hold less than an ounce.</description>
+		 	<glass>
+		 		<images>images/shot_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Pony glass</glassware_type>
+		 	<description>A stemmed glass holding one to two ounces for liqueurs and brandies.</description>
+		 	<glass>
+<images>images/pony_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Cocktail glass</glassware_type>
+		 	<description>A stemmed glass ranging in size from three to six ounces and with various shaped bowls.</description>
+		 	<glass>
+<images>images/cocktail_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Highball glass</glassware_type>
+		 	<description>The familiar, straight-sided glass that usually has a capacity of eight to 10 ounces.</description>
+		 	<glass>
+<images>images/highball_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Collins or chimney glass</glassware_type>
+		 	<description>An elongation of the highball glass that holds from 10 to 14 ounces.</description>
+		 	<glass>
+<images>images/collins_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Tall Collins or chimney glass</glassware_type>
+		 	<description>With a capacity of as much as 16 ounces, this glass is usually used for exotic speciality drinks such as the Zombie or Singapore Sling.</description>
+		 	<glass>
+<images>images/collins_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Old Fashioned glass</glassware_type>
+		 	<description>Sometimes called a "rock" glass because it is just the right size for a cocktail on-the-rocks or a whiskey and a splash of soda or water. Holds from eight to 10 ounces.</description>
+		 	<glass>
+<images>images/old_fashioned_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Double Old Fashioned glass</glassware_type>
+		 	<description>With its 14 to 16 ounce capacity, this glass is popular for all types of drinks.</description>
+		 	<glass>
+				<images>images/old_fashioned_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Whiskey Sour glass</glassware_type>
+		 	<description>Sometimes called a Delmonico glass, this is the traditional glass for all kinds of sours. Holds from five to six ounces.</description>
+		 	<glass>
+		 		<images>images/whiskey_sour_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>All-purpose balloon glass</glassware_type>
+		 	<description>Originally designed for wine drinking, this big ten to 14 ounce glass is being used to server everything form whiskey to beer and many kinds of cocktails and coolers. May be used when a large wine goblet is specified.</description>
+		 	<glass>
+		 		<images>images/balloon_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Sherry glasses</glassware_type>
+		 	<description>The American flared sherry glass holding about three ounces may be used for cordials and liqueurs. But the Spanish copita, the traditional flavored-shaped sherry glass, is being used more frequently because it enables the drinker to enjoy the full aroma of whatever is in the glass. Capacity is slightly less than four ounces.</description>
+		 	<glass>
+		 		<images>images/sherry_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Brandy snifter</glassware_type>
+		 	<description>The classic brown-glass globular shape is designed to funnel all of the bouquet of a fine cognac, Armagnac, or Spanish brandy to the brandy connoisseur's educated nose. It comes in many sizes ranging from four ounces to 24 ounces, and if you look diligently, you'll even come across some 48 ounce snifters.</description>
+		 	<glass>
+		 		<images>images/brandy_snifter_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Champagne glasses</glassware_type>
+		 	<description>The champagne saucer, a stemmed glass, has been in use in the U.S. for a long time. It is relatively flat and shallow, disperses the bubbles in the wine rather quickly, and is also subject to spills at a crowded reception or party. It holds from four to six ounces, but can carry as little as two and a half ounces in glasses used at glitzy tourist bars. The hollow stem is attractive but difficult to clean, so it isn't in general use except in private bars. The tulip glass, with a capacity from six to nine ounces, is artfully designed to conserve the natural carbonation of champagne. </description>
+		 	<glass>
+		 		<images>images/champagne_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Wine glasses</glassware_type>
+		 	<description>Wine may be enjoyed from almost any size or shape of glass. Red-wine glasses are usually much larger than white-wine glasses so that the bouquet of a full-bodied, robust Burgundy can be enjoyed to the fullest. White wines, with a few exceptions, are not strong on aroma or bouquet, thus the smaller glass, which is easier to chill, and since its contents are consumed more quickly, the wine stays properly cool.</description>
+		 	<glass>
+		 		<images>images/cocktail_glass.jpg</images>
+		 		<images>images/delmonico_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Beer glasses</glassware_type>
+		 	<description>Steins and schooners holding as much as a liter of suds were once looked upon as a mark of depravity by non-beer drinkers. But with a strong resurgence of draft beer underway, pint mugs and other large glasses are back in style again. It's the perfect way to drink fresh, foamy beer from the tap. For bottled-beer drinkers, the classic Pilsner glass, footed and shaped like an elongated V, is preferred. Pilsner glasses usually hold 10 to 12 ounces of beer.</description>
+		 	<glass>
+		 		<images>images/beer_mug_glass.jpg</images>
+		 		<images>images/pilsner_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+
+		 <glasswrtype>
+		 	<glassware_type>Speciality glasses</glassware_type>
+		 	<description>There are many special-purpose glasses that were designed or adapted for a new drink creation. The Irish coffee cup is an adaptation of the hot drink mug used for hot buttered rum and other winter warmers. There are flip glasses, fizz glasses, parfait glasses, water goblets, Rickey glasses, compotes, ten-pin glasses, Pousse-cafe glasses, lamp chimney glasses. Hurricane 14 ounce grog classes, Savall glasses, Poco Grande, Zombie glasses, slim cooler glasses holding 14 to 16 ounces, and punch cups. It is doubtful that even the largest bar will have all of these containers, but they all have their place in enhancing one's enjoyment of a favorite wine, beer, or mixed drink.</description>
+		 	<glass>
+		 		<images>images/hurricane_glass.jpg</images>
+		 		<images>images/cooler_glass.jpg</images>
+		 		<images>images/irish_creme_glass.jpg</images>
+		 		<images>images/parfait_glass.jpg</images>
+		 		<images>images/pousse_cafe_glass.jpg</images>
+		 		<images>images/sherbert_glass.jpg</images>
+		 		<images>images/squall_glass.jpg</images>
+		 		<images>images/tulip_glass.jpg</images>
+		 	</glass>
+		 </glasswrtype>
+	</glassware>
+</mixology>

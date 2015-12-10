@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="xsl/nonAlcoholic.xsl" type="text/xsl" ?>
+<mixology>	
+	<drinks>
+		<nonAlcoholic>
+			<group category="non_alcoholic">
+				<title>Aileen Peterson's Cider Cup</title>
+				<ingredients-list>
+					<ingredients>1 cup apple cider</ingredients>
+					<ingredients>1 cup hot tea</ingredients>
+					<ingredients>1 tsp. brown sugar</ingredients>
+					<ingredients>Dash orange juice</ingredients>
+					<ingredients>Dash lemon juice</ingredients>
+					<ingredients>Pinch powdered cinnamon</ingredients>
+					<ingredients>Pinch grated nutmeg</ingredients>
+					<ingredients>2 cinnamon sticks</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except cinnamon sticks, in a saucepan over low heat.</mixing_directions>
+					<mixing_directions>Bring to a simmer.</mixing_directions>
+					<mixing_directions>Serve in warmed mug.</mixing_directions>
+					<mixing_directions>garnish with cinnamon sticks.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Heated Mug</serving_glass>
+				<images>images/mug.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Banana Milk Shake</title>
+				<ingredients-list>
+					<ingredients>1 cup whole milk</ingredients>
+					<ingredients>1 small, ripe banana</ingredients>
+					<ingredients>2 scoops vanilla, butter pecan, or coconut ice cream</ingredients>
+					<ingredients>Powdered cinnamon or grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except cinnamon or nutmeg, in a blender.</mixing_directions>
+					<mixing_directions>Pour into a 10-oz. Collins glass.</mixing_directions>
+					<mixing_directions>Sprinkle top with cinnamon or nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Café Viennoise</title>
+				<ingredients-list>
+					<ingredients>1 cup cold strong black coffee</ingredients>
+					<ingredients>1 oz. heavy cream</ingredients>
+					<ingredients>1 tsp. chocolate syrup</ingredients>
+					<ingredients>1/2 tsp. powdered cinnamon</ingredients>
+					<ingredients>Pinch grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix coffee, cream, chocolate, and cinnamon in a blender until smooth.</mixing_directions>
+					<mixing_directions>Pour into a Squall glass.</mixing_directions>
+					<mixing_directions>Sprinkle with nutmeg..</mixing_directions>
+				</directions><glass>
+				<serving_glass>Squall Glass</serving_glass>
+				<images>images/squall_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Down East Delight</title>
+				<ingredients-list>
+					<ingredients>1/2 cup orange juice</ingredients>
+					<ingredients>2 oz. grapefruit juice</ingredients>
+					<ingredients>2 oz. cranberry juice</ingredients>
+					<ingredients>1 oz orgeat syrup or honey</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except cherry, with cracked ice in a blender or shaker.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Garnish with cherry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Eggnog for One</title>
+				<ingredients-list>
+					<ingredients>1 whole egg</ingredients>
+					<ingredients>2 tsp. superfine sugar</ingredients>
+					<ingredients>Pinch salt</ingredients>
+					<ingredients>Several dashes vanilla extract</ingredients>
+					<ingredients>1 cup milk</ingredients>
+					<ingredients>Grated nutmeg or powdered cinnamon</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Beat egg with sugar and salt until well blended and smooth.</mixing_directions>
+					<mixing_directions>Spoon into a chilled highball glass.</mixing_directions>
+					<mixing_directions>Add vanilla and a little cold milk.</mixing_directions>
+					<mixing_directions>Stir briskly.</mixing_directions>
+					<mixing_directions>Add remainder of milk.</mixing_directions>
+					<mixing_directions>Stir again.</mixing_directions>
+					<mixing_directions>Top with nutmeg or cinnamon.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Fisherman's Cup</title>
+				<ingredients-list>
+					<ingredients>3 oz. tomato juice</ingredients>
+					<ingredients>2 oz. clam juice</ingredients>
+					<ingredients>2 oz. sauerkraut juice</ingredients>
+					<ingredients>1/2 tsp. horseradish</ingredients>
+					<ingredients>Several dashes Tabasco sauce</ingredients>
+					<ingredients>Several dashes Worcestershire sauce</ingredients>
+					<ingredients>Dash lemon juice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Stir all ingredients with several ice cubes in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled highball glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Garden Cup</title>
+				<ingredients-list>
+					<ingredients>1 1/2 cups buttermilk</ingredients>
+					<ingredients>1/4 cup ripe avocado, mashed</ingredients>
+					<ingredients>1/4 cup cucumber, peeled, seeded, and finely chopped</ingredients>
+					<ingredients>1 tsp. onion, finely chopped</ingredients>
+					<ingredients>1 tsp. parsley, finely chopped</ingredients>
+					<ingredients>Pinch celery salt</ingredients>
+					<ingredients>Pinch white pepper</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients in a blender until smooth.</mixing_directions>
+					<mixing_directions>serve in chilled wine goblets.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Ice-breaker Punch</title>
+				<ingredients-list>
+					<ingredients>1 6-oz. can frozen orange juice</ingredients>
+					<ingredients>1 6-oz. can frozen grapefruit juice</ingredients>
+					<ingredients>1 6-oz. can frozen pineapple juice</ingredients>
+					<ingredients>1 qt. ginger ale</ingredients>
+					<ingredients>1 qt. lemon-lime soda</ingredients>
+					<ingredients>1/2 cup liquid Piña Colada mix</ingredients>
+					<ingredients>1/2 tsp. powdered cinnamon</ingredients>
+					<ingredients>1/2 tsp grated nutmeg</ingredients>
+					<ingredients>1 small, ripe banana, thinly sliced</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Prepare frozen fruit juice according to instruction on cans.</mixing_directions>
+					<mixing_directions>Pour into a chilled punch bowl with a large cake of ice.</mixing_directions>
+					<mixing_directions>Gently stir in ginger ale and lemon-lime soda and sweeten to taste with Piña Colada mix.</mixing_directions>
+					<mixing_directions>Sprinkle punch with cinnamon and nutmeg.</mixing_directions>
+					<mixing_directions>Garnish with banana slices.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>John's Juice</title>
+				<ingredients-list>
+					<ingredients>3 cups orange juice</ingredients>
+					<ingredients>1 tbsp. liquid Piña Colada mix</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix in an electric blender until Piña Colada mix is dissolved.</mixing_directions>
+					<mixing_directions>Chill in the refrigerator until cold.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Keyport Cocktail</title>
+				<ingredients-list>
+					<ingredients>6 oz. clam juice</ingredients>
+					<ingredients>1 oz. seafood cocktail sauce</ingredients>
+					<ingredients>1/2 oz. lemon juice</ingredients>
+					<ingredients>Several dashes Tabasco sauce</ingredients>
+					<ingredients>Several dashes Worcestershire sauce</ingredients>
+					<ingredients>Several pinches celery salt</ingredients>
+					<ingredients>Lemon slice</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except lemon slice, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Strain into a chilled Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Garnish with a lemon.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Lone Prairie Oyster</title>
+				<ingredients-list>
+					<ingredients>1 tsp. Worcestershire sauce</ingredients>
+					<ingredients>1/2 tsp. cider vinegar</ingredients>
+					<ingredients>1 tsp. cocktail sauce (red)</ingredients>
+					<ingredients>Several dashes Tabasco sauce</ingredients>
+					<ingredients>Pinch celery salt</ingredients>
+					<ingredients>Pinch cayenne</ingredients>
+					<ingredients>Dash Angostura bitters</ingredients>
+					<ingredients>1 egg yolk</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>In a chilled wine goblet, mix all ingredients, except egg yolk, with a spoon until well blended.</mixing_directions>
+					<mixing_directions> Carefully add egg yolk to glass so that it is unbroken.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Milkmaid's Cooler</title>
+				<ingredients-list>
+					<ingredients>3/4 cup buttermilk</ingredients>
+					<ingredients>3/4 cup tomato juice</ingredients>
+					<ingredients>Dash lemon juice</ingredients>
+					<ingredients>Pinch white pepper</ingredients>
+					<ingredients>Pinch dried basil</ingredients>
+					<ingredients>Dash Worcestershire sauce</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pre-chill all ingredients.</mixing_directions>
+					<mixing_directions>Mix in a blender until smooth.</mixing_directions>
+					<mixing_directions>Serve in a tall, chilled Collins glass.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>New York Egg Cream</title>
+				<ingredients-list>
+					<ingredients>1/2 cup cold milk</ingredients>
+					<ingredients>3 tbsp. chocolate-flavored syrup</ingredients>
+					<ingredients>Ice-cold seltzer water</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Add milk and chocolate syrup in a chilled highball glass.</mixing_directions>
+					<mixing_directions>Mix well.</mixing_directions>
+					<mixing_directions>Fill glass with seltzer.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+					<mixing_directions>Serve with an iced-tea spoon and a straw.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>On to Omski</title>
+				<ingredients-list>
+					<ingredients>5 oz. beef borscht</ingredients>
+					<ingredients>1/2 tsp. lemon or lime juice</ingredients>
+					<ingredients>1/2 tsp. horseradish</ingredients>
+					<ingredients>Several dashes Tabasco sauce</ingredients>
+					<ingredients>Several dashes Worcestershire sauce</ingredients>
+					<ingredients>2 tbsp. plain yogurt or sour cream</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Stir all ingredients, except yogurt, with cracked ice in a mixing glass.</mixing_directions>
+					<mixing_directions>Strain into a chilled Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Top with yogurt or sour cream.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Palm Grove Cooler</title>
+				<ingredients-list>
+					<ingredients>2 oz. orange juice</ingredients>
+					<ingredients>1 oz. guava fruit</ingredients>
+					<ingredients>1 oz. grapefruit juice</ingredients>
+					<ingredients>1 oz. pineapple juice</ingredients>
+					<ingredients>1/2 oz. lime juice</ingredients>
+					<ingredients>1/2 oz. grenadine</ingredients>
+					<ingredients>1 small, ripe banana</ingredients>
+					<ingredients>Several dashes Angostura bitters</ingredients>
+					<ingredients>Club soda</ingredients>
+					<ingredients>Pineapple slice</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except soda, pineapple slice and cherry, with cracked ice in a blender.</mixing_directions>
+					<mixing_directions>Pour into a tall, chilled Collins glass.</mixing_directions>
+					<mixing_directions>Fill with cold club soda.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+					<mixing_directions>Garnish with pineapple slice and Maraschino cherry..</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Raspberry-Ma-Tazz</title>
+				<ingredients-list>
+					<ingredients>5 oz pineapple juice</ingredients>
+					<ingredients>12 raspberries or 6 strawberries</ingredients>
+					<ingredients>1 small, ripe banana</ingredients>
+					<ingredients>Grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except nutmeg, with cracked ice in a blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled highball glass.</mixing_directions>
+					<mixing_directions>Sprinkle with grated nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Highball Glass</serving_glass>
+				<images>images/highball_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Shirley Temple</title>
+				<ingredients-list>
+					<ingredients>4 oz. ginger ale</ingredients>
+					<ingredients>1 tsp. grenadine</ingredients>
+					<ingredients>Orange slice</ingredients>
+					<ingredients>Lemon peel</ingredients>
+					<ingredients>Maraschino cherry</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Pour ginger ale and grenadine into a chilled wine glass with an ice cube.</mixing_directions>
+					<mixing_directions>Stir gently.</mixing_directions>
+					<mixing_directions>Garnish with orange slice, lemon peel, and Maraschino cherry.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Glass</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>T. M. Hunt's Cup</title>
+				<ingredients-list>
+					<ingredients>1/2 cup fresh juice</ingredients>
+					<ingredients>2 scoops vanilla ice cream</ingredients>
+					<ingredients>Several dashes vanilla extract</ingredients>
+					<ingredients>1 tsp. sugar syrup or honey</ingredients>
+					<ingredients>1 egg</ingredients>
+					<ingredients>Pinch powdered cinnamon</ingredients>
+					<ingredients>Pinch grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix cold orange juice, ice cream, vanilla, honey, and egg in a blender until honey is dissolved and mixture is smooth but not watery.</mixing_directions>
+					<mixing_directions>Pour into a chilled Collins glass.</mixing_directions>
+					<mixing_directions>Sprinkle with cinnamon and nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Collins Glass</serving_glass>
+				<images>images/collins_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Vicar's Coffee</title>
+				<ingredients-list>
+					<ingredients>1 cup strong black coffee</ingredients>
+					<ingredients>1/2 tsp. orgeat syrup</ingredients>
+					<ingredients>Several pinches powdered cinnamon</ingredients>
+					<ingredients>2 scoops chocolate ice cream</ingredients>
+					<ingredients>Whipped cream</ingredients>
+					<ingredients>Grated nutmeg</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Put cold coffee, syrup, cinnamon, and ice cream into a blender.</mixing_directions>
+					<mixing_directions>Mix for a few seconds until smooth but not watery.</mixing_directions>
+					<mixing_directions>Serve in a chilled wine goblet.</mixing_directions>
+					<mixing_directions>Top with a generous mound of whipped cream.</mixing_directions>
+					<mixing_directions>Sprinkle with nutmeg.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Wine Goblet</serving_glass>
+				<images>images/cocktail_glass.jpg</images></glass>
+			</group>
+			<group category="non_alcoholic">
+				<title>Ye Cottage Cocktail</title>
+				<ingredients-list>
+					<ingredients>3 oz. tomato or V-8 juice</ingredients>
+					<ingredients>3 oz. clam juice</ingredients>
+					<ingredients>Several dashes Tabasco sauce</ingredients>
+					<ingredients>Several dashes Worcestershire sauce</ingredients>
+					<ingredients>1/2 tsp. lemon juice</ingredients>
+					<ingredients>Fresh dill, finely chopped</ingredients>
+				</ingredients-list>
+				<directions>
+					<mixing_directions>Mix all ingredients, except dill, with cracked ice in a shaker or blender.</mixing_directions>
+					<mixing_directions>Pour into a chilled Old Fashioned glass.</mixing_directions>
+					<mixing_directions>Top with chopped dill.</mixing_directions>
+				</directions><glass>
+				<serving_glass>Old Fashioned Glass</serving_glass>
+				<images>images/old_fashioned_glass.jpg</images></glass>
+			</group>
+		</nonAlcoholic>
+	</drinks>
+</mixology>
